@@ -9,10 +9,23 @@
 - Provisioning
 - Economic Management / Sharing
 
-### Types of Energy
+### Forms
 - Intelligence
 - Electrical
 - Communications
+- Economic
+
+### Modes
+- Passive
+- Active
+> [selfdriven.foundation/energy](https://selfdriven.foundation/energy)
+
+### Generation
+- Solar
+- Nuclear
+- Geo
+- Wind
+- Traditional
 
 ### Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
