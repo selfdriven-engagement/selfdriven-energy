@@ -1,8 +1,5 @@
 ### Helping communities self-actuate their energy creation, supply & coordination.
 
-### Status
-- Research & Development
-
 ### Scope
 - Community energy needs
 - AI planning
@@ -18,9 +15,10 @@
 ### Modes
 - Passive
 - Active
-> [selfdriven.foundation/energy](https://selfdriven.foundation/energy)
+> [selfdriven.fyi/energy](https://selfdriven.fyi/energy)
 
 ### Generation
+- Financial
 - Solar
 - Nuclear
 - Geo
