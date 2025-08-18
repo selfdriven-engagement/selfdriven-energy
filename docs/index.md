@@ -20,7 +20,9 @@ title: Home
 ### Modes
 - Passive
 - Active
-> 
+
+### Communities
+- [Photos & Images](https://github.com/selfdriven-foundation/selfdriven-energy/tree/main/communities/images)
 
 ### Related
 - [selfdriven.fyi/energy](https://selfdriven.fyi/energy)
