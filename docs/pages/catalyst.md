@@ -14,3 +14,4 @@ permalink: /cardano-catalyst/
 
 ### Related
 - [Previous Funding](https://selfdriven.fyi/energy)
+- [Launch a Project](https://selfdriven.fyi/launch)
