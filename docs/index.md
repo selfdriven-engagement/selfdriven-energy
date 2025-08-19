@@ -11,19 +11,23 @@ title: Home
 - Provisioning
 - Economic Management / Sharing
 
-### Forms
-- Intelligence
-- Electrical
-- Communications
-- Economic
-
 ### Modes
 - Passive
 - Active
 
+### Forms
+- Intelligence - the energy that organises against entropy.
+- Electrical
+- Communications
+- Economic
+
 ### Communities
 - [Photos & Images](https://github.com/selfdriven-foundation/selfdriven-energy/tree/main/communities/images)
 - [Cardano Catalyst Proposals](/cardano-catalyst/)
+
+### Research
+- Intelligence as a form of organisational energy that counters the dispersive force of entropy.
+    - Is it all then just a matter of compute energy?
 
 ### Related
 - [selfdriven.fyi/energy](https://selfdriven.fyi/energy)
