@@ -23,6 +23,7 @@ title: Home
 
 ### Communities
 - [Photos & Images](https://github.com/selfdriven-foundation/selfdriven-energy/tree/main/communities/images)
+- [Cardano Catalyst Proposals](/cardano-catalyst/)
 
 ### Related
 - [selfdriven.fyi/energy](https://selfdriven.fyi/energy)
