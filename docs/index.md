@@ -40,4 +40,6 @@ title: Home
 - [selfdriven.social](https://selfdriven.social) - AT Protocol
 - [selfdriven.fyi/research](https://selfdriven.fyi/research)
 
+---
+*Energy, Regeneration, Sustainability*
 
