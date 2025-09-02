@@ -10,7 +10,7 @@ permalink: /cardano-catalyst/
 - [Cardano.Build v2 Upgrade, including GenAI Integration](https://projectcatalyst.io/funds/14/cardano-open-ecosystem/cardanobuild-v2-upgrade-including-genai-integration)
 - [Cardano Kit for Communities - Beyonders Collective BioHub](https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/cardano-kit-for-communities-beyonders-collective-biohub)
 - [Cardano Kit for State Organisations - beHub Healthcare Dept.](https://projectcatalyst.io/funds/14/cardano-use-cases-partners-and-products/cardano-kit-for-state-organisations-behub-healthcare-dept)
-- [Governance Kit R&D – Pro-Social Frameworks || CIP](https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/governance-kit-randd-pro-social-frameworks-or-cip)
+- [Governance Kit R&D – Pro-Social Frameworks %7C CIP](https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/governance-kit-randd-pro-social-frameworks-or-cip)
 
 ### Related
 - [Previous Funding](https://selfdriven.fyi/energy)
