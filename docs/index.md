@@ -24,7 +24,7 @@ title: Home
 ### Community Collaborations
 - [Cardano Catalyst Proposals](/cardano-catalyst/)
     - [Photos & Images](https://github.com/selfdriven-foundation/selfdriven-energy/tree/main/communities/images)
-    - [Cardano Catalyst Proposal Community Engagement](/cardano-catalyst-community-engagement/)
+    - [Community Engagement](/cardano-catalyst-community-engagement/)
 
 
 ### Research
