@@ -6,7 +6,7 @@ permalink: /cardano-catalyst-community-engagement/
 
 ## Cardano Catalyst Community Engagement
 
-- Socialise Proposals with supporting media - videos etc
+- Socialise proposals with supporting media - images, videos etc
     - Social Platforms (X, BlueSky etc)
     - Discord
     - LinkedIn
@@ -18,6 +18,13 @@ permalink: /cardano-catalyst-community-engagement/
 
 - Monitor proposals and respond to any comments.
 
+- Include the [proposal link](/cardano-catalyst/) in all engagement to make it easy for the community member to find the proposal.
+
+- Engagement key points
+    -  *"Making you aware of our proposal ...*
+        - Problem being solved
+        - The Solution
+        - The Impact
 
 ### Related
-- [Proposals](/cardano-catalyst/)
+- [Proposal Links](/cardano-catalyst/)
