@@ -30,7 +30,7 @@ permalink: /cardano-catalyst-community-engagement/
 
 ---
 
-## Plan
+## As a Structured Plan
 
 ### Proposal Awareness Campaign
 - Supporting Media: Create visuals (infographics, slides, memes) and short-form videos that highlight the problem, the solution, and the impact.
