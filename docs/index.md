@@ -21,9 +21,11 @@ title: Home
 - Communications
 - Economic
 
-### Communities
-- [Photos & Images](https://github.com/selfdriven-foundation/selfdriven-energy/tree/main/communities/images)
+### Community Collaborations
 - [Cardano Catalyst Proposals](/cardano-catalyst/)
+    - [Photos & Images](https://github.com/selfdriven-foundation/selfdriven-energy/tree/main/communities/images)
+    - [Cardano Catalyst Proposal Community Engagement](/cardano-catalyst-community-engagement/)
+
 
 ### Research
 - Intelligence as a form of organisational energy that counters the dispersive force of entropy.

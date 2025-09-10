@@ -68,3 +68,7 @@ Always close with:
 
 ### References
 - [Proposal Links](/cardano-catalyst/)
+
+---
+
+> And don't forget to vote for your own proposals! ;-)
