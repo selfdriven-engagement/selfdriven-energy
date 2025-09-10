@@ -5,15 +5,18 @@ title: Home
 
 ## Helping communities self-actuate their energy creation, supply & coordination.
 
+A sustainable community to needs a source of energy, which can come in two main types ...
+
+- **Passive** - accumulated stored energy i.e. monetory tokens "funds".
+- **Active** - human energy.
+
+[selfdriven.fyi/energy](https://selfdriven.fyi/energy)
+
 ### Scope
 - Community energy needs
 - AI planning
 - Provisioning
 - Economic Management / Sharing
-
-### Modes
-- Passive
-- Active
 
 ### Forms
 - Intelligence - the energy that organises against entropy.
@@ -32,7 +35,6 @@ title: Home
     - Is it all then just a matter of compute energy?
 
 ### Related
-- [selfdriven.fyi/energy](https://selfdriven.fyi/energy)
 - [selfdriven.fyi/intelligence](https://selfdriven.fyi/intelligence)
 - [selfdriven.fyi/cog-assist](https://selfdriven.fyi/cog-assist)
 - [selfdriven.network AI Interface](https://selfdriven.network)
