@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Cardano Catalyst Communications - selfdriven Energy
-permalink: /cardano-catalyst-communications/
+permalink: /cardano-catalyst-community-engagement/
 ---
 
-## Cardano Catalyst Communications
+## Cardano Catalyst Community Engagement
 
 - Socialise Proposals with supporting media - videos etc
     - Social Platforms (X, BlueSky etc)
