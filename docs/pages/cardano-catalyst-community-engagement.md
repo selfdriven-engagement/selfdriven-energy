@@ -6,6 +6,8 @@ permalink: /cardano-catalyst-community-engagement/
 
 # Cardano Catalyst Proposal - Community Engagement
 
+**Focusing energy on your proposal**
+
 - Socialise proposals with supporting media - images, videos etc
     - Social Platforms (X, BlueSky etc)
     - Discord
