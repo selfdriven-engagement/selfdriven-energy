@@ -13,5 +13,6 @@ permalink: /cardano-catalyst/
 - [Governance Kit R&D – Pro-Social Frameworks & CIP](https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/governance-kit-randd-pro-social-frameworks-or-cip)
 
 ### Related
+- [Project Catalyst](https://projectcatalyst.io)
 - [Previous Funding](https://selfdriven.fyi/energy)
 - [Launch a Project](https://selfdriven.fyi/launch)
