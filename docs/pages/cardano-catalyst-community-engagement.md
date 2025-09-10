@@ -6,7 +6,7 @@ permalink: /cardano-catalyst-community-engagement/
 
 # Cardano Catalyst Proposal - Community Engagement
 
-**Focusing energy on your proposal**
+*Focusing energy on your proposal*
 
 - Socialise proposals with supporting media - images, videos etc
     - Social Platforms (X, BlueSky etc)
@@ -62,6 +62,7 @@ Always close with:
 - AMA (Ask Me Anything): Run a short AMA session on Discord or Twitter Spaces.
 - Cross-Collaboration: Where possible, tag or partner with other proposals to build momentum.
 - Consistency: Share updates at least 2–3 times a week across platforms, not just once.
+
 
 ---
 
