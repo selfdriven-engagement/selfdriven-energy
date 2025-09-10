@@ -4,7 +4,7 @@ title: Cardano Catalyst Communications - selfdriven Energy
 permalink: /cardano-catalyst-community-engagement/
 ---
 
-## Cardano Catalyst Community Engagement
+# Cardano Catalyst Proposal - Community Engagement
 
 - Socialise proposals with supporting media - images, videos etc
     - Social Platforms (X, BlueSky etc)
@@ -26,12 +26,9 @@ permalink: /cardano-catalyst-community-engagement/
         - The Solution
         - The Impact
 
-### Related
-- [Proposal Links](/cardano-catalyst/)
-
 ---
 
-## Engagement Plan
+## Plan
 
 ### Proposal Awareness Campaign
 - Supporting Media: Create visuals (infographics, slides, memes) and short-form videos that highlight the problem, the solution, and the impact.
@@ -44,24 +41,27 @@ permalink: /cardano-catalyst-community-engagement/
 - Follow-up Conversations: Don’t just broadcast—ask for feedback, suggestions, or partnerships.
 
 ### Engagement Process
-	- Proposal Link in Every Post: Make it effortless for community members to access your proposal.
-	- Monitor & Respond: Check your proposal page daily; answer all comments/questions promptly.
-	- Leverage Networks: Encourage team members and partners to also share the proposal link and engagement posts into their own networks.
+- Proposal Link in Every Post: Make it effortless for community members to access your proposal.
+- Monitor & Respond: Check your proposal page daily; answer all comments/questions promptly.
+- Leverage Networks: Encourage team members and partners to also share the proposal link and engagement posts into their own networks.
 
 ### Key Messaging Framework
 
 When engaging, highlight four main points in a clear, repeatable format:
-	1.	Problem Being Solved – why this matters for the Cardano ecosystem.
-	2.	The Solution – what your proposal is doing.
-	3.	The Impact – what difference this will make, measurable outcomes if possible.
-	4.	Relatedness – how it ties into other Cardano initiatives, communities, or ecosystem goals.
+1.	Problem Being Solved – why this matters for the Cardano ecosystem.
+2.	The Solution – what your proposal is doing.
+3.	The Impact – what difference this will make, measurable outcomes if possible.
+4.	Relatedness – how it ties into other Cardano initiatives, communities, or ecosystem goals.
 
 Always close with:
 -  “Here’s the proposal link – we’d love your feedback and support.”
 
 ### Extras
-	- AMA (Ask Me Anything): Run a short AMA session on Discord or Twitter Spaces.
-	- Cross-Collaboration: Where possible, tag or partner with other proposals to build momentum.
-	- Consistency: Share updates at least 2–3 times a week across platforms, not just once.
+- AMA (Ask Me Anything): Run a short AMA session on Discord or Twitter Spaces.
+- Cross-Collaboration: Where possible, tag or partner with other proposals to build momentum.
+- Consistency: Share updates at least 2–3 times a week across platforms, not just once.
 
+---
 
+### References
+- [Proposal Links](/cardano-catalyst/)
