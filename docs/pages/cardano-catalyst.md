@@ -16,7 +16,6 @@ We have a range of impactful and reusable Catalyst Proposals in Fund14. Deliveri
 |[Cardano Kit for State Organisations - beHub Healthcare Dept.](https://projectcatalyst.io/funds/14/cardano-use-cases-partners-and-products/cardano-kit-for-state-organisations-behub-healthcare-dept)|Deliver a “State Organisation Cardano Kit” using the beHub project & selfdriven.health intiatives as real-world implementions. -- "Impactfully & Reusable".|
 |[Governance Kit R&D – Pro-Social Frameworks & CIP](https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/governance-kit-randd-pro-social-frameworks-or-cip)|Research & develop a 'Government Kit' aligned with pro-social concepts and frameworks, providing reusable models for how Cardano can be integrated into traditional and emerging governance models.|
 
-
-- [Project Catalyst](https://projectcatalyst.io)
-- [Previous Funding](https://selfdriven.fyi/energy)
-- [Launch a Project](https://selfdriven.fyi/launch)
+### Related
+- [Project Catalyst Information](https://projectcatalyst.io)
+- [Previous Funding Proposals](https://selfdriven.fyi/energy)
