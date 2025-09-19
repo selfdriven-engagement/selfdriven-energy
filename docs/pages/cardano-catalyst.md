@@ -10,7 +10,6 @@ We have a range of impactful and reusable Catalyst Proposals in Fund14. Deliveri
 
 | Proposal | Solution | Context |
 |:----------|:----------|:-------|
-|[CardanoWallets.io v2 Upgrade, including GenAI MCP Endpoint](https://projectcatalyst.io/funds/14/cardano-open-ecosystem/cardanowalletsio-v2-upgrade-including-genai-mcp-endpoint)|A central, trustable repository for Cardano wallet information, serving builders, end users, organisations, and GenAI agents based on the existing https://cardanowallets.io|[cardanowallets.io](https://cardanowallets.io)|
 |[Cardano.Build v2 Upgrade, including GenAI Integration](https://projectcatalyst.io/funds/14/cardano-open-ecosystem/cardanobuild-v2-upgrade-including-genai-integration)|Update the cardano.build website to be community-curated, searchable, support developer collaboration, voting, integration GenAI (MCP) and develop a GenAI code generation verification framework.|[cardano.build](https://cardano.build)
 |[Cardano Kit for Communities - Beyonders Collective BioHub](https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/cardano-kit-for-communities-beyonders-collective-biohub)|Using the selfdriven open-source On-Boarding Framework build a "Community Kit" specifically aimed at using the Cardano network and associated Actively Validated Services.|[About the BioHub](https://github.com/selfdriven-foundation/onboarding/tree/main/use-cases/beyonders-collective-biohub-mallorca)|
 |[Cardano Kit for State Organisations - beHub Healthcare Dept.](https://projectcatalyst.io/funds/14/cardano-use-cases-partners-and-products/cardano-kit-for-state-organisations-behub-healthcare-dept)|Deliver a “State Organisation Cardano Kit” using the beHub project & selfdriven.health intiatives as real-world implementions. -- "Impactfully & Reusable".|[beHub](https://behub.com.au)|
@@ -19,3 +18,4 @@ We have a range of impactful and reusable Catalyst Proposals in Fund14. Deliveri
 ### Related
 - [Project Catalyst Information](https://projectcatalyst.io)
 - [Previous Funding Proposals](https://selfdriven.fyi/energy)
+- [CardanoWallets.io v2 Upgrade, including GenAI MCP Endpoint](https://projectcatalyst.io/funds/14/cardano-open-ecosystem/cardanowalletsio-v2-upgrade-including-genai-mcp-endpoint) - [cardanowallets.io](https://cardanowallets.io)
