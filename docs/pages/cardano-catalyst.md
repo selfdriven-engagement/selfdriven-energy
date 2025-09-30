@@ -16,7 +16,7 @@ We have a range of impactful and reusable Catalyst Proposals in Fund14. Deliveri
 |[Governance Kit R&D – Pro-Social Frameworks & CIP](https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/governance-kit-randd-pro-social-frameworks-or-cip)<br>Search: "Governance Kit R&D"|Research & develop a 'Government Kit' aligned with pro-social concepts and frameworks, providing reusable models for how Cardano can be integrated into traditional and emerging governance models.|[plurality.net](https://www.plurality.net)|
 
 ### Catalyst App Voting
-- 
+- To find a proposal in the voting app, use the "search:" text for each proposal - thanks.
 
 ### Related
 - [Project Catalyst Information](https://projectcatalyst.io)
