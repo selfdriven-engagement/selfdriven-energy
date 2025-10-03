@@ -8,6 +8,8 @@ permalink: /cardano-catalyst/
 
 We have a range of impactful and reusable Catalyst Proposals in Fund14. Delivering real-solutions, onboarding & kits for the community.
 
+**All proposals can be found in the Catalyst App by searching for "Mark Byers".**
+
 | Proposal | Solution | More Info |
 |:----------|:----------|:-------|
 |[Cardano.Build v2 Upgrade, including GenAI Integration](https://projectcatalyst.io/funds/14/cardano-open-ecosystem/cardanobuild-v2-upgrade-including-genai-integration)<br><small><span style="color:gray">Search: "Cardano.build v2"</span></small>|Update the cardano.build website to be community-curated, searchable, support developer collaboration, voting, integration GenAI (MCP) and develop a GenAI code generation verification framework.|[cardano.build](https://cardano.build)
