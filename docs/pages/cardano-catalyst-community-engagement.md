@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Cardano Catalyst Communications - selfdriven Energy
-permalink: /cardano-catalyst-community-engagement/
+permalink: /cardano-catalyst/community-engagement/
 ---
 
-# Cardano Catalyst Proposal - Community Engagement
+# Cardano Catalyst - Community Engagement
 
 *Focusing energy on your proposal ...*
 

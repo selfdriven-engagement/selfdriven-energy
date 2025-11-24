@@ -25,8 +25,9 @@ A sustainable community to needs a source of energy, which can come in two main 
 - Economic
 
 ### Community Collaborations
-- [Cardano Catalyst Proposals](/cardano-catalyst/)
-    - [Community Engagement](/cardano-catalyst-community-engagement/)
+- [Cardano Catalyst](/cardano-catalyst/)
+    - [Community Engagement](/cardano-catalyst/community-engagement/)
+    - [Proposal Checklist](/cardano-catalyst/proposal-checklist/)
     - [Photos & Images](https://github.com/selfdriven-foundation/selfdriven-energy/tree/main/communities/images)
 
 
