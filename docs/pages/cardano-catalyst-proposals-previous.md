@@ -1,14 +1,16 @@
 ---
 layout: default
 title: Cardano Catalyst - selfdriven Energy
-permalink: /cardano-catalyst/
+permalink: /cardano-catalyst/proposals/previous/
 ---
 
-## Cardano Catalyst F14
+## Cardano Catalyst Previous Proposals
 
 We have a range of impactful and reusable Catalyst Proposals in Fund14. Delivering real-solutions, onboarding & kits for the community.
 
 **All proposals can be found in the Catalyst App by searching for "Mark Byers".**
+
+### Fund 14
 
 | Proposal | Solution | More Info |
 |:----------|:----------|:-------|
@@ -22,5 +24,5 @@ We have a range of impactful and reusable Catalyst Proposals in Fund14. Deliveri
 
 ### Related
 - [Project Catalyst Information](https://projectcatalyst.io)
-- [Previous Funding Proposals](https://selfdriven.fyi/energy)
+- [Before F14 Funding Proposals](https://selfdriven.fyi/energy)
 - [CardanoWallets.io v2 Upgrade, including GenAI MCP Endpoint](https://projectcatalyst.io/funds/14/cardano-open-ecosystem/cardanowalletsio-v2-upgrade-including-genai-mcp-endpoint) - [cardanowallets.io](https://cardanowallets.io)

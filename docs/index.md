@@ -25,12 +25,10 @@ A sustainable community to needs a source of energy, which can come in two main 
 - Economic
 
 ### Community Collaborations
-- [Cardano Catalyst](/cardano-catalyst/)
+- [Cardano Catalyst Proposals](/cardano-catalyst/proposals/)
     - [Community Engagement](/cardano-catalyst/community-engagement/)
-    - [Proposal Checklist](/cardano-catalyst/proposal-checklist/)
+    - [Proposal Checklist](/cardano-catalyst/proposal/checklist/)
     - [Photos & Images](https://github.com/selfdriven-foundation/selfdriven-energy/tree/main/communities/images)
-
-
 
 ### Research
 - Intelligence as a form of organisational energy that counters the dispersive force of entropy.

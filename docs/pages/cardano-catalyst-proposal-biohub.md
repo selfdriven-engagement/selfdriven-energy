@@ -30,3 +30,5 @@ Solving many of the operational issues that create friction.
     - External Investment - Growth-Cycle 
         - Accountability
 - update Selfdriven.coop with content for eligibility etc
+
+[More](https://github.com/selfdriven-foundation/onboarding/tree/main/use-cases/beyonders-collective-biohub-mallorca)
