@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cardano Catalyst Communications - selfdriven Energy
+title: Cardano Catalyst Proposal - BioHub
 permalink: /cardano-catalyst/proposal/biohub/
 ---
 
