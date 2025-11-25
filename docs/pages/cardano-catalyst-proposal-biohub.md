@@ -4,7 +4,8 @@ title: Cardano Catalyst Communications - selfdriven Energy
 permalink: /cardano-catalyst/proposal/biohub/
 ---
 
-## Cardano Catalyst - Proposal - BioHub
+## Cardano Catalyst Proposal - Powering a BioHub using Cardano, by selfdriven
+
 
 ### What is a BioHub?
 
