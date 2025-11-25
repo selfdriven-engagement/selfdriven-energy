@@ -14,7 +14,7 @@ Based on the real need of health systems to tranform, deliver a “Health Cooper
 
 From definition to provisioning on Cardano.
 
-Working with the selfdriven.health to deliver a real use project, based on the co-developed open-source kit.
+Work with the selfdriven.health to deliver a real use project, based on the co-developed open-source kit - from definition to implementation.
 
 From prototyping to real use.
 

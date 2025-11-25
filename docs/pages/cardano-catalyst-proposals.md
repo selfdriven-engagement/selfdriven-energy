@@ -12,8 +12,8 @@ We have a range of impactful and reusable Catalyst Proposals in Fund14. Deliveri
 
 | Proposal | Solution | More Info |
 |:----------|:----------|:-------|
-|[Powering a Crafters Cooperative using Cardano, by selfdriven](https://projectcatalyst.io/funds/15/...)<br><small><span style="color:gray">Search: "Crafters Cooperative"</span></small>|Using the selfdriven open-source On-Boarding Framework build a "Community Kit" specifically aimed at using the Cardano network and associated Actively Validated Services.|[More](/cardano-catalyst/proposal/crafters-cooperative/)|
-|[Powering a Health Cooperative using Cardano, by selfdriven](https://projectcatalyst.io/funds/15/...)<br><small><span style="color:gray">Search: "Health Cooperative"</span></small>|Deliver a “State Organisation Cardano Kit” using the beHub project & selfdriven.health intiatives as real-world implementions. -- "Impactfully & Reusable".|[More](/cardano-catalyst/proposal/health-cooperative/)|
+|[Powering a Crafters Cooperative using Cardano, by selfdriven](https://projectcatalyst.io/funds/15/...)<br><small><span style="color:gray">Search: "Crafters Cooperative"</span></small>|Work with the Beyonders Collective to deliver a real use project, based on a co-developed open-source kit - from definition to implementation.|[More](/cardano-catalyst/proposal/crafters-cooperative/)|
+|[Powering a Health Cooperative using Cardano, by selfdriven](https://projectcatalyst.io/funds/15/...)<br><small><span style="color:gray">Search: "Health Cooperative"</span></small>|Work with the selfdriven.health to deliver a real use project, based on the co-developed open-source kit - from definition to implementation.|[More](/cardano-catalyst/proposal/health-cooperative/)|
 
 ### Catalyst App Voting
 - To find a proposal in the voting app, use the "search:" text for each proposal - thanks.
