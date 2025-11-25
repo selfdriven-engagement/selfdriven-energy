@@ -77,3 +77,4 @@ Leveraging:
 ### Related
 
 - [selfdriven.health](https://selfdriven.health)
+- [Common Proposal Checklist](/cardano-catalyst/proposal/checklist/)

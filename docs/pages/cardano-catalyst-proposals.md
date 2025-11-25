@@ -21,5 +21,6 @@ We have a range of impactful and reusable Catalyst Proposals in Fund14. Deliveri
 - To find a proposal in the voting app, use the "search:" text for each proposal - thanks.
 
 ### Related
+- [Common Proposal Checklist](/cardano-catalyst/proposal/checklist/)
 - [Previous Proposals](/cardano-catalyst/proposals/previous/)
 - [Project Catalyst Information](https://projectcatalyst.io)
