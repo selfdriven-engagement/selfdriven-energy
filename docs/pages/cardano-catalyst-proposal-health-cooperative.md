@@ -200,7 +200,7 @@ Photos
 - Use / Test - Pilot
 - Document / Socialise / Publish
 
-### M1: Milestone #1
+### M1: Milestone #1 ---
 
 #### Milestone Title
 
@@ -225,7 +225,7 @@ Link to GitHub repo with the plan (versioned PDF/MD), release tag v0.1, and visi
 #### Progress (% of Project Completion)
 10%
 
-### M2: Milestone #2
+### M2: Milestone #2 ---
 
 #### Milestone Title
 
@@ -249,11 +249,11 @@ Design & Build
 #### Progress (% of Project Completion)
 50%
 
-### M3: Milestone #3
+### M3: Milestone #3 ---
 
 #### Milestone Title
 
-Use & Test
+Use & Reflect
 
 #### Milestone Outputs
 
@@ -273,11 +273,11 @@ Use & Test
 #### Progress (% of Project Completion)
 80%
 
-### M4: Milestone #4
+### M4: Milestone #4 ---
 
 #### Milestone Title
 
-Document  & Socialise
+Document & Socialise
 
 #### Milestone Outputs
 
