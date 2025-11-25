@@ -1,10 +1,36 @@
 ---
 layout: default
-title: Cardano Catalyst Proposal - HealthHub
-permalink: /cardano-catalyst/proposal/healthhub/
+title: Cardano Catalyst Proposal - Crafters Cooperative
+permalink: /cardano-catalyst/proposal/crafters-cooperative/
 ---
 
-## Cardano Catalyst Proposal - Powering a Health Cooperative using Cardano, by selfdriven
+## Cardano Catalyst Proposal - Powering a Crafters Cooperative using Cardano, by selfdriven
+
+### What is a Crafters Cooperative?
+
+- Crafters
+- Photos
+
+Cardano Use Cases: Prototype & Launch
+$ADA 15,000 to $ADA 200,000
+for Behub and Beyonders
+
+Beyonders - Coop
+Using Cardano to support decentralised Cooperatives.
+Solving many of the operational issues that create friction.
+
+- Taking of payments
+    - TradToken
+    - DeToken
+        - Stable Coins
+        - Validators
+            - Drawdown 
+            - Or invest internally
+    - External Investment - Growth-Cycle 
+        - Accountability
+- update Selfdriven.coop with content for eligibility etc
+
+[More](https://github.com/selfdriven-foundation/onboarding/tree/main/use-cases/beyonders-collective-biohub-mallorca)
 
 It is difficult for health organisations to engage with the Cardano network in a meaningful way.
 
