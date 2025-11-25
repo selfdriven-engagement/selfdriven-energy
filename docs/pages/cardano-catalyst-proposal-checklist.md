@@ -6,7 +6,7 @@ permalink: /cardano-catalyst/proposal/checklist/
 
 ## Cardano Catalyst - Proposal Checklist
 
-## #Foundational Work
+### Foundational Work
 
 The selfdriven Foundation has spent five years developing a structured operating system for community self-actuation, built on decentralised identity, Cardano governance principles, and real-world impact design.
 
