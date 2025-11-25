@@ -46,10 +46,11 @@ But it is difficult for non-technical health system cooperatives to engage with 
 
 Work with the beHub to deliver a real use project, based on a co-developed open-source kit - from definition to implementation.
 From definition to decentralised auto-provisioning on Cardano.
+For a next generation of health systems - AI accountability etc
 
 ### Supporting Documentation
 
-https://energy.selfdriven.foundation/cardano-catalyst/proposal/health-cooperative/)
+https://energy.selfdriven.foundation/cardano-catalyst/proposal/health-systems-cooperative/)
 
 ### Project Dependencies
 
