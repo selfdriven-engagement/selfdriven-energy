@@ -4,10 +4,8 @@ title: Cardano Catalyst Proposal - Community Cooperative
 permalink: /cardano-catalyst/proposal/community-cooperative/
 ---
 
-# Cardano Catalyst Proposal - Powering a Community Cooperative using Cardano, by selfdriven & Beyonders Collective
-
-CATALYST PROPOSAL
------------------
+# Cardano Catalyst Proposal
+# Powering a Community Cooperative using Cardano, by selfdriven & Beyonders Collective
 
 ## Proposal Title
 
