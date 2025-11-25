@@ -4,7 +4,7 @@ title: Cardano Catalyst Proposal - Health Cooperative
 permalink: /cardano-catalyst/proposal/health-cooperative/
 ---
 
-## Cardano Catalyst Proposal - Powering a Health Cooperative using Cardano, by selfdriven
+## Cardano Catalyst Proposal - Powering a Health Cooperative using Cardano, by selfdriven & beHub
 
 A cooperative as a form of business.
 
