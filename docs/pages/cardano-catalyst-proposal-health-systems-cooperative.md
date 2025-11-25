@@ -1,10 +1,13 @@
 ---
 layout: default
 title: Cardano Catalyst Proposal - Health Cooperative
-permalink: /cardano-catalyst/proposal/health-cooperative/
+permalink: /cardano-catalyst/proposal/health-systems-cooperative/
 ---
 
-# Cardano Catalyst Proposal - Powering a Health Cooperative using Cardano, by selfdriven & beHub
+# Cardano Catalyst Proposal
+# Powering a Health Systems Cooperative using Cardano, by selfdriven & beHub
+
+https://selfdriven.health
 
 ## Proposal Title
 
@@ -34,16 +37,19 @@ No / English
 
 ### Problem Statement
 
-It is difficult for non-technical cooperatives to engage with the Cardano network in a meaningful way.
+Traditional Health Care facilities are under pressure.
+With the arrival of GAHI as a society we have the opportunity to decentralise health functions.
+But for it to work they need highly trustable systems,
+But it is difficult for non-technical health system cooperatives to engage with the blockchain & identity technology in a meaningful way.
 
 ### Solution Overview
 
-Work with the Beyonders Collective to deliver a real use project, based on a co-developed open-source kit - from definition to implementation.
+Work with the beHub to deliver a real use project, based on a co-developed open-source kit - from definition to implementation.
 From definition to decentralised auto-provisioning on Cardano.
 
 ### Supporting Documentation
 
-https://energy.selfdriven.foundation/cardano-catalyst/proposal/crafters-cooperative/)
+https://energy.selfdriven.foundation/cardano-catalyst/proposal/health-cooperative/)
 
 ### Project Dependencies
 

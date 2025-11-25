@@ -44,7 +44,7 @@ From definition to decentralised auto-provisioned system using Cardano.
 
 ### Supporting Documentation
 
-https://energy.selfdriven.foundation/cardano-catalyst/proposal/crafters-cooperative/)
+https://energy.selfdriven.foundation/cardano-catalyst/proposal/community-cooperative/)
 
 ### Project Dependencies
 
@@ -737,16 +737,39 @@ Leveraging:
 - [octology.io](https://octology.io)
 - [selfdriven.network](https://selfdriven.network)
 
-### Outcomes for the Cardano Community
+## Outcomes for the Cardano Community
 - Real Reference Model
 - Open Source Kit - Faciliated by the selfdriven Foundation
 
-### Related
+## Related
 
 - [selfdriven.health](https://selfdriven.health)
 - [Common Proposal Checklist](/cardano-catalyst/proposal/checklist/)
 
 
+## FAQS
 
+Concern reviewers often raise
+Response for evaluators
+Is it too ambitious?
+Scope is proven — team has built similar systems before and the whole plan is milestone-locked with a single cooperative pilot.
+Who will use it?
+The Beyonders Collective is confirmed as the live pilot; the output is a reusable kit for any cooperative globally.
+Is it speculation?
+No tokens, no hype. Real payments, real users, real income distribution.
+Will people outside crypto adopt it?
+UX is designed for non-technical users. No blockchain terminology required to participate.
+How does it benefit Cardano?
+Creates recurring payments, new wallet users, and sustainable grassroots economic activity on ADA / USDM.
+What happens after funding?
+No further funding required — the kit is open-source and reusable. Revenue model is optional hosted services, not more Catalyst requests.
+Is the team capable?
+Team has delivered smart contracts + governance + SSI + onboarding in real organisations before.
+What if the cooperative drops out?
+Commitment is formalised before build. If failure happens, the code and kit still launch publicly.
+Is the budget fair?
+Every line item ties to delivery of reusable open-source infra and onboarding — no marketing fluff.
+How will success be verified?
+On-chain transactions + governance events + distribution cycles + documentation + case study.
 
 
