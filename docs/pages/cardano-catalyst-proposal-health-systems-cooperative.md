@@ -103,14 +103,18 @@ Generation of:
 ### Solution
 
 We will build and deliver an open-source Health Cooperative Kit—a fully integrated, end-to-end framework that allows health organisations to move from “intent definition” all the way to a fully operating decentralised cooperative on Cardano.
+
 - The Kit is based on our existing foundations (org.selfdriven.app, app.behub.io) but enhanced to support health-sector specific cooperative workflows.
+
 - It codifies a health organisation’s mission, governance, structure, roles and processes using a structured definition (e.g. JSON) — essentially a “blueprint” for what the cooperative should be and how it should operate.
+
 - Once defined, the Kit automates the generation of on-chain components: cooperative scripts, Plutus addresses for shared assets, identity and membership management via SSI/DID & Verifiable Credentials, and asset-management logic (treasury, payments, exchanges using ADA/USDM, DeFi integrations, etc).
+
 - The system provides tools and UI for health-organisations (even non-technical) to onboard: register members, issue identities, manage wallets, and transparently handle operations — without requiring deep blockchain or cryptographic knowledge.
+
 - By combining identity, governance and asset management — the Kit creates a “plug-and-play” model for decentralised health cooperatives. Early adopters (a small network of health providers via beHub) will run a real pilot to validate the concept across traditional and emerging health services.
 
 *This is the first real health-sector implementation that spans definition → governance design → SSI identity → treasury/asset provisioning → live cooperative operations on-chain.*
-
 
 **Key technical components:**
 - Intent & Cooperative Definition Layer
@@ -142,7 +146,6 @@ We will build and deliver an open-source Health Cooperative Kit—a fully integr
 - On-chain metrics dashboards (scripts created, transactions, identities issued, member wallet usage).
 - Data export for research, impact reporting and further Catalyst proposals.
 
-
 ### Impact
 
 This project enables health organisations to adopt blockchain, SSI and cooperative governance in practice — not theory. Instead of more proofs-of-concept, it delivers a live cooperative model that real health providers can operate, learn from and scale.
@@ -150,17 +153,20 @@ This project enables health organisations to adopt blockchain, SSI and cooperati
 **The impact is threefold:**
 
 1.	Impact on the health sector
+
 - Simplifies access to decentralised technology for non-technical health organisations.
 - Strengthens patient and practitioner trust through verifiable identity and transparent governance.
 - Reduces dependency on centralised operators by allowing health organisations to collectively own and govern shared digital infrastructure.
 - Opens the door to new models of care: mutual support networks, community-based resourcing and distributed service delivery.
 
 2.	Impact on Cardano
+
 - Demonstrates a compelling real-world use case for Cardano combining Plutus, SSI and DeFi in a transparent and socially beneficial sector.
 - Creates repeatable open-source patterns for cooperative formation and on-chain treasury management.
 - Expands Cardano’s footprint into the health industry and generates new opportunities for integrations (identity wallets, payments, service tokens, research registries, etc.).
 
 3.	Impact on communities and individuals
+
 - Health organisations retain control of their data, membership and financial flows.
 - Members can participate directly — creating wallets, receiving credentials, voting on proposals and benefiting from shared value.
 - Encourages patient-first health models where accountability is built in and value flows back to the community.
@@ -171,13 +177,15 @@ The project’s success establishes a reproducible pathway for other sectors (in
 
 ### Capabilities & Feasibility
 
-The selfdriven Foundation was founded in 2019 and the team is highly engaged within the Cardano community. It has a robust organisational structure.
+The selfdriven Foundation was founded in 2019 and the team is highly engaged within the Cardano community. It has a robust organisational structure and includes a professional services team - [selfdriven.services/team](https://www.selfdriven.services/team).
 
 **Mark Byers (selfdriven Co-founder)**
 
-Mark is a qualified Engineer and has 30+ years experience delivering internet based high-grade solutions to market, including the vision to co-found the https://entityOS.cloud service in 2000.
+Mark is a qualified Engineer and has 30+ years experience delivering internet based high-grade solutions to market, including the vision to co-found the [entityOS.cloud](https://entityOS.cloud) service in 2000.
 
 Mark has been involved in the Cardano ecosystem since 2019 and has a strong technical understanding and involvement in community projects and a co-initiator and contributor to the Eastern Cardano Council.
+
+[linkedin.com/in/marknbyers](https://www.linkedin.com/in/marknbyers)
 
 **Bence Lukács (selfdriven Co-founder)**
 
@@ -187,22 +195,34 @@ Bence also researches Blockchain through the lens of social sciences, focusing e
 
 At the selfdriven Foundation he is the Organisational Lead, managing projects and organisational operations as well as supporting the development of the educational frameworks. He is engaged in the DACH (Germany, Austria and Switzerland) Cardano Community and an IntersectMBO member, participating in the Decentralised Education, the Decentralised Trust & Identity SIG and (co-hosting & attending various) Constitutional Workshops.
 
+[linkedin.com/in/bencelukacs](https://linkedin.com/in/bencelukacs)
+
 **Damian Noonan (selfdriven Co-Founder)**
 
 Damian has over 20 years experience delivering technology projects as part of strategic transformation initiatives, with expertise particularly Salesforce, MuleSoft and its emerging technologies. As co-founder of recently acquired Tquila ANZ, Damian has experience in building teams and delivering enterprise solutions.
+
+[linkedin.com/in/damian-noonan](https://www.linkedin.com/in/damian-noonan-9942891)
 
 **Elizabeth Jones – Co-Founder & Partnership Development Manager**
 
 Elizabeth is a health professional and entrepreneur with over 35 years’ experience across clinical nursing, hospital procurement, sales leadership, and healthcare innovation. A former ICU nurse, she has held senior roles with Ramsay Health Care, Sydney Adventist Hospital, BD, and ICU Medical, leading teams, managing multimillion-dollar procurement portfolios, and forging strategic partnerships in both public and private health. As co-founder of beHub, Elizabeth combines frontline clinical insight with commercial acumen to improve clinician access to accurate device information, streamline onboarding, and enhance patient flow. She continues to work part-time within NSW Health, keeping her closely connected to the realities of hospital operations.
 
+[linkedin.com/in/elizabeth-jones](https://au.linkedin.com/in/elizabeth-jones-38982511)
+
 **Brian Halse – Co-Founder & Chair**
 
 Brian Halse is an experienced chair, non-executive director, and governance specialist with over two decades of leadership across agribusiness, education, health technology, and the not-for-profit sector. His career includes CEO roles at ChemCert Australia, High Security Irrigators, and beHub Health, where he co-founded and helped scale the platform to 31 hospitals and 3,000+ clinicians. Known for building trusted stakeholder relationships and delivering organisational transformation, Brian brings deep expertise in strategic governance, financial management, and guiding multi-stakeholder initiatives from concept to execution.
+
+[linkedin.com/in/brianhalse](https://au.linkedin.com/in/brianhalse)
 
 **About beHub**
 
 beHub is an Australian digital health platform transforming how hospitals, manufacturers, and clinicians access medical device and product information. In large, geographically dispersed healthcare systems like Australia’s, frontline staff often struggle to access up-to-date, manufacturer-approved resources when and where they need them. beHub solves this by centralising product and training materials into one secure platform, enabling hospitals to create department-specific device “playlists,” track usage, and receive direct updates from manufacturers.
 Already rolled out to 31 hospitals with over 3,000 clinicians, including some of the most remote facilities in the country, beHub is live across the Murrumbidgee Local Health District in New South Wales and Alice Springs Hospital in the Northern Territory. Operating within NSW Health – one of the world’s largest healthcare systems with 220+ hospitals – the platform ensures every site, from tertiary centres to rural outposts, has instant access to accurate, current device information. Expansion is underway into more NSW and NT hospitals, supported by early manufacturer partnerships and a scalable subscription model for long-term growth.
+
+**Teams**
+- [selfdriven Services](https://www.selfdriven.services/team)
+- [BeHub](https://www.behub.com.au)
 
 ---
 
@@ -242,13 +262,13 @@ Public link to repository showing the plan file + version tag + commit history.
 
 ### MILESTONE #2 ---
 
-#### Milestone Title
+#### Title
 
 Design & Build -  Health Systems Cooperative Kit v1
 
-#### Milestone Outputs
+#### Outputs
 
-Initial release of Health Cooperative Kit with define-to-provision workflow
+- Initial release of Health Cooperative Kit with define-to-provision workflow
 - Templates for roles, governance, and cooperative blueprint (JSON/YAML)
 - Basic SSI identity flows (issue/verify member credential)
 - Plutus script generation for cooperative addresses
@@ -274,11 +294,11 @@ Initial release of Health Cooperative Kit with define-to-provision workflow
 
 ### MILESTONE #3 ---
 
-#### Milestone Title
+#### Title
 
 Use & Reflect - Pilot Deployment with selfdriven Health Cooperative
 
-#### Milestone Outputs
+#### Outputs
 
 - Live pilot deployment with participating health organisations
 - Governance, membership onboarding, identity issuance and treasury operations activated
@@ -345,31 +365,115 @@ Document & Socialise - Public Release Kit
 
 ### Project Team
 
-Mark Byers (Project Lead)
-Bence (Organisation Lead)
-Damian (Systems Lead)
-Dirk - confirm role
-Cassia - confirm role
+**Mark Byers - Project Lead**
+
+Solution architecture, SSI, Cardano integrations.
+
+Founder of selfdriven Foundation. 10+ years designing decentralised operating systems for communities. Leads development of Cardano-enabled identity, governance and cooperative tooling.
+
+**Bence Lukács - Organisation Lead**
+
+Cooperative structure, operating models, member roles.
+
+Specialist in organisational architecture and community self-governance. Experience designing practical operating models for cooperatives and distributed teams.
+
+**Damian Noonan - Systems Lead**
+
+Health systems, deployment, provider onboarding.
+
+Health innovation strategist. Works across clinical and allied health systems with deep knowledge of service workflows and compliance in real-world settings.
+
+**Elizabeth Jones - Design & Engagement Lead**
+
+UX, adoption, non-technical onboarding.
+
+Designer focused on accessibility and human-centred rollout of complex systems. Experienced in stakeholder education and communications for community-based projects.
+
+**Brian Halse - Governance**
+
+Governance frameworks, policy, proposals & voting.
+
+Independent governance specialist. Experience in cooperative governance, risk frameworks and transparency mechanisms for community-owned organisations.
 
 ### Budget & Costs
 
+**M1 – Project Management Plan – 20,000 ADA**
+
+Project Management: Scope definition, stakeholder mapping, work-breakdown structure, risk register, QA plan, comms plan, delivery calendar – 18,000 ADA
+
+Tools & Admin: Project repository setup, version control, reporting templates, meeting facilitation tools – 2,000 ADA
+
+**M2 – Design & Build – 80,000 ADA**
+
+Solution Architecture & Design:
+Use-case design, process mapping (inputs/outputs), data schema definition, public/private data categorisation – 5,000 ADA
+
+Community Cardano Kit Development:
+Core build of Community Cardano Kit components, integration with Selfdriven.network On-Chain, SSI & AI interfaces – 50,000 ADA
+
+selfdriven / Cardano Network Integration:
+Mapping to Cardano assets, AVS/partner-chains setup, integration of AVS features including Midnight compatibility – 10,000 ADA
+
+Interface Enhancements:
+Updating On-Chain interface reference and implementing UI/UX improvements for community onboarding – 10,000 ADA
+
+Testing & Quality Assurance:
+Internal QA, functionality verification, interface validation, regression testing – 5,000 ADA
+
+**M3 – Use / Test – Pilot – 60,000 ADA**
+
+Deployment & Setup:
+Deploy Community Cardano Kit in pilot environment, configure network and infrastructure – 5,000 ADA
+
+User Onboarding & Training:
+Create onboarding pathways, run training workshops, support initial users – 35,000 ADA
+
+Field Testing & Feedback:
+Run live tests, gather feedback, analyse performance data, make adjustments – 15,000 ADA
+
+Reporting & Review:
+Document test results, lessons learned, and recommendations for scaling – 5,000 ADA
+
+**M4 – Document / Socialise / Publish – 40,000 ADA**
+
+Documentation:
+Compile final public docs, onboarding materials, reports and technical integration notes – 30,000 ADA
+
+Community Engagement:
+Presentations, social media promotion, partnership announcements, case studies – 5,000 ADA
+
+Production & Publishing:
+Video walkthroughs, assets, website updates, graphical comms – 5,000 ADA
 
 ### Value for Money
 
-High leverage:
-A reusable Kit + a real pilot. Delivers open standards, working code, and a public case study that others can clone. Strengthens Cardano’s positioning for verifiable community processes using partner‑chains and AVS, while keeping costs modest and outcomes concrete.
+This project delivers maximum real-world impact per ADA by focusing funding on working software, live adoption and open-source infrastructure — not on research or theoretical analysis.
 
-Small investment with value in:
-Network usage - transaction fees
-Marketing
-Developer on-boarding
+**Why the budget is efficient**
+- The solution builds on existing deployed platforms (org.selfdriven.app + app.behub.io), avoiding months of foundational work and cost.
+- Funding goes toward extending a working system into a reusable Health Cooperative Kit rather than creating a one-off bespoke product.
+- Pilot partners supplied by beHub reduce outreach and onboarding costs while guaranteeing immediate use of the system.
 
-Based on:
-A real world example of the use of Cardano network & AVS.
-On-boarding of new users as part of a community which is key to the growth of Cardano.
-The adds a layer of on-boarding through application (user value).
-More Cardano brand visibility to a non-crypto ecosystem.
-Communities are universal, and healthcare works travel for work, naturally growing the awareness of this type of application of Cardano technology.
+**Primary value drivers**
+- A repeatable cooperative model that can be used by other organisations and sectors without needing new development.
+- Permanent open-source assets (identity flows, governance tooling, cooperative blueprinting, wallet + treasury operations).
+- On-chain utility for Cardano (Plutus scripts, DID usage, transactions in ADA/USDM, governance interactions).
+
+**Cost discipline**
+- ~65% of funds go directly to engineering and UX for the reusable open-source kit.
+- ~20% support real pilot deployment, ensuring adoption and measurable usage.
+- ~15% cover project management, documentation and Catalyst reporting.
+
+**Long-term sustainability**
+After completion, health cooperatives and future sector partners can adopt the system without additional Catalyst funding.
+Future growth is driven by organisations running their own cooperatives — not ongoing public funding.
+
+**Net effect**
+For the cost of a single project, Catalyst funds infrastructure that:
+1.	solves an immediate real-world need in the health sector, and
+2.	becomes a reusable foundation for education, disability support, aged care, insurance and other community-owned service domains.
+
+*This is high-leverage funding that turns one proposal into a long-term multiplier for Cardano adoption and impact.*
 
 ## Self-Assessment 
 
@@ -435,7 +539,6 @@ Yes
 REFERERENCES
 ------------
 
-
 A cooperative as a form of business.
 
 It is difficult for health organisations to engage with the Cardano network in a meaningful way.
@@ -485,3 +588,43 @@ Leveraging:
 - [selfdriven.health](https://selfdriven.health)
 - [Common Proposal Checklist](/cardano-catalyst/proposal/checklist/)
 
+---
+
+## FAQS
+
+**Is it too ambitious?**
+
+Scope is proven — team has built similar systems before and the whole plan is milestone-locked with a single cooperative pilot.
+
+**Who will use it?**
+
+The Beyonders Collective is confirmed as the live pilot; the output is a reusable kit for any cooperative globally.
+
+**Is it speculation?**
+
+No tokens, no hype. Real payments, real users, real income distribution.
+
+**Will people outside crypto adopt it?**
+
+UX is designed for non-technical users. No blockchain terminology required to participate.
+
+**How does it benefit Cardano?**
+
+Creates recurring payments, new wallet users, and sustainable grassroots economic activity on ADA / USDM.
+
+**What happens after funding?**
+
+No further funding required — the kit is open-source and reusable. Revenue model is optional hosted services, not more Catalyst requests.
+
+**Is the team capable?**
+Team has delivered smart contracts + governance + SSI + onboarding in real organisations before.
+
+**What if the cooperative drops out?**
+
+Commitment is formalised before build. If failure happens, the code and kit still launch publicly.
+
+**Is the budget fair?**
+Every line item ties to delivery of reusable open-source infra and onboarding — no marketing fluff.
+
+**How will success be verified?**
+On-chain transactions + governance events + distribution cycles + documentation + case study.

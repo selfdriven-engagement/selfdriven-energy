@@ -42,7 +42,7 @@ From definition to decentralised auto-provisioned system using Cardano.
 
 ### Supporting Documentation
 
-https://energy.selfdriven.foundation/cardano-catalyst/proposal/community-cooperative/)
+https://energy.selfdriven.foundation/cardano-catalyst/proposal/community-cooperative/
 
 ### Project Dependencies
 
@@ -164,24 +164,24 @@ Craft and maker cooperatives represent a large, global, and economically underse
 The impact is both direct (for the pilot cooperative) and multiplying (for the broader ecosystem):
 
 Direct Impact
-	•	25+ members transition to on-chain payments and income distribution
-	•	Transparent treasury and governance reduce disputes and administrative overhead
-	•	New income streams for artisans selling goods through the cooperative using ADA/USDM
-	•	Financial agency shifts from a central coordinator to the collective itself
+	- 25+ members transition to on-chain payments and income distribution
+	- Transparent treasury and governance reduce disputes and administrative overhead
+	- New income streams for artisans selling goods through the cooperative using ADA/USDM
+	- Financial agency shifts from a central coordinator to the collective itself
 
 Systemic Impact
-	•	The pilot becomes a case study and onboarding blueprint for other cooperatives
-	•	The open-source “Community Cardano Kit” offers a repeatable pattern of real-world usage
-	•	Demonstrates clear economic utility of ADA and USDM in daily transactions
-	•	Strengthens Cardano’s positioning as a platform for inclusive economic participation, not speculation
+	- The pilot becomes a case study and onboarding blueprint for other cooperatives
+	- The open-source “Community Cardano Kit” offers a repeatable pattern of real-world usage
+	- Demonstrates clear economic utility of ADA and USDM in daily transactions
+	- Strengthens Cardano’s positioning as a platform for inclusive economic participation, not speculation
 
 Network Effects
 
 Each cooperative that launches using the kit creates:
-	•	additional wallet holders
-	•	ongoing transaction activity
-	•	funds retained within Cardano
-	•	community education ripple effects as members introduce peers
+	- additional wallet holders
+	- ongoing transaction activity
+	- funds retained within Cardano
+	- community education ripple effects as members introduce peers
 
 This means one successful project becomes a catalyst for many more, without requiring repeated Catalyst funding.
 
@@ -189,32 +189,32 @@ Why this matters for the Cardano mission
 
 Cardano aims to support prosperity and participation for all.
 Cooperatives — especially craft, cultural, and local-enterprise groups — are a perfect match:
-	•	communally owned
-	•	democratically governed
-	•	value created at the edge rather than the centre
+	- communally owned
+	- democratically governed
+	- value created at the edge rather than the centre
 
 By giving these communities digital sovereignty through Cardano, this project directly advances:
-	•	financial inclusion
-	•	participatory governance
-	•	real economic utility for ADA
+	- financial inclusion
+	- participatory governance
+	- real economic utility for ADA
 
 Impact beyond the pilot
 
 Because the kit is open-source and designed for non-technical adoption, the model can scale into:
-	•	agricultural and food cooperatives
-	•	community wellness collectives
-	•	childcare and education co-ops
-	•	First Nations / Indigenous community enterprises
-	•	creative and cultural associations
-	•	shared-resource collectives (makerspaces, tool libraries, fab labs)
+	- agricultural and food cooperatives
+	- community wellness collectives
+	- childcare and education co-ops
+	- First Nations / Indigenous community enterprises
+	- creative and cultural associations
+	- shared-resource collectives (makerspaces, tool libraries, fab labs)
 
 Each new deployment reinforces Cardano as the blockchain of real-world community economics.
 
 This proposal delivers high ecosystem value because:
-	•	it creates daily, repeatable, grassroots Cardano usage
-	•	it empowers non-technical people to participate economically
-	•	it establishes a pathway for global replication without additional funding
-	•	it strengthens Cardano’s reputation as the blockchain for social, economic and cooperative empowerment
+	- it creates daily, repeatable, grassroots Cardano usage
+	- it empowers non-technical people to participate economically
+	- it establishes a pathway for global replication without additional funding
+	- it strengthens Cardano’s reputation as the blockchain for social, economic and cooperative empowerment
 
 In short:
 This is not “blockchain for cooperatives” — it is cooperatives powered by Cardano.
@@ -222,13 +222,15 @@ And once demonstrated in the real world, it becomes impossible to ignore.
 
 ### Capabilities & Feasibility
 
-The selfdriven Foundation was founded in 2019 and the team is highly engaged within the Cardano community. It has a robust organisational structure.
+The selfdriven Foundation was founded in 2019 and the team is highly engaged within the Cardano community. It has a robust organisational structure and includes a professional services team - [selfdriven.services/team](https://www.selfdriven.services/team).
 
 **Mark Byers (selfdriven Co-founder)**
 
-Mark is a qualified Engineer and has 30+ years experience delivering internet based high-grade solutions to market, including the vision to co-found the https://entityOS.cloud service in 2000.
+Mark is a qualified Engineer and has 30+ years experience delivering internet based high-grade solutions to market, including the vision to co-found the [entityOS.cloud](https://entityOS.cloud) service in 2000.
 
 Mark has been involved in the Cardano ecosystem since 2019 and has a strong technical understanding and involvement in community projects and a co-initiator and contributor to the Eastern Cardano Council.
+
+[linkedin.com/in/marknbyers](https://www.linkedin.com/in/marknbyers)
 
 **Bence Lukács (selfdriven Co-founder)**
 
@@ -238,40 +240,46 @@ Bence also researches Blockchain through the lens of social sciences, focusing e
 
 At the selfdriven Foundation he is the Organisational Lead, managing projects and organisational operations as well as supporting the development of the educational frameworks. He is engaged in the DACH (Germany, Austria and Switzerland) Cardano Community and an IntersectMBO member, participating in the Decentralised Education, the Decentralised Trust & Identity SIG and (co-hosting & attending various) Constitutional Workshops.
 
+[linkedin.com/in/bencelukacs](https://linkedin.com/in/bencelukacs)
+
 **Damian Noonan (selfdriven Co-Founder)**
 
 Damian has over 20 years experience delivering technology projects as part of strategic transformation initiatives, with expertise particularly Salesforce, MuleSoft and its emerging technologies. As co-founder of recently acquired Tquila ANZ, Damian has experience in building teams and delivering enterprise solutions.
+
+[linkedin.com/in/damian-noonan](https://www.linkedin.com/in/damian-noonan-9942891)
 
 **Dirk Van Onsem (Beyonders Collective Co-Founder - Business + Purpose)**
 
 Executive leadership corporate experience as VP at Nike Inc. leading large teams across 12 countries in EMEA, growing $3B+ annual net revenue, partnerships, and strategy. IEMBA from Vlerick Business School, Certified Coach & Facilitator. Recent facilitation work with Voltage Control team for Cardano/IOG Constitution workshops, including General Assembly in Buenos Aires (Sep-Dec 2024) and more recently the Midnight City Simulation workshop in Buenos Aires (Aug 2025).
 
+[linkedin.com/in/dirkvanonsem](https://www.linkedin.com/in/dirkvanonsem/)
+
 **Cassia Elizabeth Jayani Patel (Beyonders Collective Co-Founder - Science + Community)**
 
 Conservation, sustainability strategy, and multi-stakeholder engagement with international agencies, governments, private sector, and grassroots communities in executive leadership roles at nonprofit Oceanic Global, tech startup Anthropogenic, convener Earth One, and mobility startup Global Passport. Environmental Engineering degree from Columbia University. 
+
+[linkedin.com/in/cassia-elizabeth-jayani](https://www.linkedin.com/in/cassia-elizabeth-jayani/)
 
 **Jamie Anley (eyonders Collective Co-Founder - Innovation + Storytelling)**
 
 Built and sold high-profile London-based creative design agency JAM Design after 30 years of mission-aligned design projects, cause marketing and leadership purpose quests. Co-Founder of Moving Beyond intersectional climate convener building community and bridging polarized siloes.  Facilitator and inner work expert.
 
-**About BioHub with Crafters as the Focus**
+[linkedin.com/in/jamieanley](https://www.linkedin.com/in/jamieanley/)
+
+**About the Mallorca Hub with Crafts-people as the Focus**
 
 The Beyonders “BioHub” in Mallorca is a catalyst empowering island-led innovation in the Balearic archipelago bioregion. Our thesis is to address the underexplored opportunity to focus on place-based innovation and empower local changemakers. Like a venture studio we work at every stage of the project from inception, through team building, validation, MVP development, and ultimately financing and adaptive scaling (aligned with ecosystemic intelligence). The flagship startup spinning out of the Nursery will crack the market on biochar with a contextual, scalable, blockchain-enabled cooperative model for farmers. 
 
-Beyonders Collective Website
-Sinal do Vale Website (first client of Beyonders and inspiration for the bioregional theory-of-change)
-Photos 
-
-Feasibility is high for three reasons:
+**Feasibility is high for three reasons:**
 
 1. The team has already delivered similar end-to-end systems
 
 The project team has deployed complete organisational operating systems with:
-	•	smart contracts
-	•	SSI identity
-	•	payments
-	•	governance
-	•	onboarding toolkits
+	- smart contracts
+	- SSI identity
+	- payments
+	- governance
+	- onboarding toolkits
 
 This reduces both discovery and execution risk.
 
@@ -288,14 +296,18 @@ Each milestone has objective acceptance criteria, measurable outputs, and verifi
 3. Pilot partner committed from the outset
 
 The Beyonders Collective provides a live organisational environment to validate:
-	•	payments
-	•	member onboarding
-	•	governance
-	•	treasury distribution
+	- payments
+	- member onboarding
+	- governance
+	- treasury distribution
 
 This avoids the “build it and hope someone uses it” problem.
 
 The required technology stack — Cardano smart contracts, wallets, USDM (optional), and web dashboards — is well understood and within team capability. No unproven protocols or dependencies are required for success.
+
+**Teams**
+- [selfdriven Services](https://www.selfdriven.services/team)
+- [Beyonders Collective](https://www.beyonderscollective.com/)
 
 ---
 
@@ -313,7 +325,6 @@ The required technology stack — Cardano smart contracts, wallets, USDM (option
 #### Title
 
 Project Management Plan
-
 
 #### Outputs
 Project management plan detailing:
@@ -349,48 +360,48 @@ Smart Contract Suite, Identity Integration & Dashboard Development
 Membership contract, treasury module, payment flows, governance module, onboarding dashboard
 
 Design
-	•	Cooperative operating model converted into technical + governance blueprint
-	•	Process maps for payments, revenue distribution, onboarding, and decision-making
-	•	UX wireframes for dashboard, onboarding flow, and treasury controls
-	•	Technical architecture for smart contracts + SSI + ADA/USDM payments
+	- Cooperative operating model converted into technical + governance blueprint
+	- Process maps for payments, revenue distribution, onboarding, and decision-making
+	- UX wireframes for dashboard, onboarding flow, and treasury controls
+	- Technical architecture for smart contracts + SSI + ADA/USDM payments
 
 Build:
-	•	Membership contract (NFT/credential logic)
-	•	Treasury contract with distribution rules
-	•	Governance module (proposals + voting + quorum)
-	•	Payment flow using ADA + optional USDM
-	•	Dashboard with role-based UX and wallet connect
-	•	Backend indexing + reporting APIs
+	- Membership contract (NFT/credential logic)
+	- Treasury contract with distribution rules
+	- Governance module (proposals + voting + quorum)
+	- Payment flow using ADA + optional USDM
+	- Dashboard with role-based UX and wallet connect
+	- Backend indexing + reporting APIs
 
 #### Acceptance Criteria
 
 Design:
-•	Design artefacts reviewed and approved by the Beyonders Collective pilot group
-•	User requirements mapped to system flows and incorporated into UX
-•	Design validated with both technical and non-technical participants
-•	Finalised scope and backlog approved for build phase
+- Design artefacts reviewed and approved by the Beyonders Collective pilot group
+- User requirements mapped to system flows and incorporated into UX
+- Design validated with both technical and non-technical participants
+- Finalised scope and backlog approved for build phase
 
 Build:
 - Membership contract (NFT/credential logic)
-•	Treasury contract with distribution rules
-•	Governance module (proposals + voting + quorum)
-•	Payment flow using ADA + optional USDM
-•	Dashboard with role-based UX and wallet connect
-•	Backend indexing + reporting APIs
+- Treasury contract with distribution rules
+- Governance module (proposals + voting + quorum)
+- Payment flow using ADA + optional USDM
+- Dashboard with role-based UX and wallet connect
+- Backend indexing + reporting APIs
 
 #### Evidence of Completion
 
 Design:
-•	Public design documentation in GitHub
-•	UX wireframes / Figma link
-•	Meeting record / sign-off document from the cooperative
-•	Architecture and implementation backlog published
+- Public design documentation in GitHub
+- UX wireframes / Figma link
+- Meeting record / sign-off document from the cooperative
+- Architecture and implementation backlog published
 
 Build:
 - GitHub repos with contract code + dashboard code
-•	Testnet deployment addresses
-•	API documentation and demo video
-•	Security review summary document
+- Testnet deployment addresses
+- API documentation and demo video
+- Security review summary document
 
 #### Delivery Month
 5
@@ -409,25 +420,25 @@ Use & Reflect - Live Deployment with The Beyonders Collective + Workshops
 
 #### Outputs
 Member onboarding, payments go-live, training resources, video walk-throughs, case study docs
-	•	Cooperative members onboarded to the platform
-	•	Live payments in ADA/USDM for artisan goods
-	•	Governance and voting active for real proposals
-	•	Distributions executed using cooperative treasury
-	•	Training resources: video walkthroughs, onboarding docs, facilitator notes
+	- Cooperative members onboarded to the platform
+	- Live payments in ADA/USDM for artisan goods
+	- Governance and voting active for real proposals
+	- Distributions executed using cooperative treasury
+	- Training resources: video walkthroughs, onboarding docs, facilitator notes
 
 #### Acceptance Criteria
 
-Minimum 25 pilot participants onboarded
-	•	Minimum 50 real transactions processed
-	•	Minimum 5 governance proposals created and voted on
-	•	At least one income distribution cycle completed
+- Minimum 25 pilot participants onboarded
+- Minimum 50 real transactions processed
+- Minimum 5 governance proposals created and voted on
+- At least one income distribution cycle completed
 
 #### Evidence of Completion
 
-	•	Transaction explorer links (payment + distribution + governance)
-	•	Pilot case study report published
-	•	Workshop attendance + learning summary
-	•	Feedback analysis from members (survey + interviews)
+- Transaction explorer links (payment + distribution + governance)
+- Pilot case study report published
+- Workshop attendance + learning summary
+- Feedback analysis from members (survey + interviews)
 
 #### Delivery Month
 8
@@ -446,24 +457,26 @@ Document & Socialise
 Public Release of the “Community Cardano Kit” for Repeat Deployment
 
 #### Outputs
-Public GitHub + docs + templates + deployment guide + governing playbook
-	•	Full GitHub repository with smart contracts, deploy scripts, UX, docs
-	•	Step-by-step deployment guide for cooperatives
-	•	Governance playbook + treasury operating guide
-	•	“Non-technical onboarding kit” for members
-	•	Public communications assets (summaries, explainer graphics, video demo)
+
+- Public GitHub + docs + templates + deployment guide + governing playbook
+- Full GitHub repository with smart contracts, deploy scripts, UX, docs
+- Step-by-step deployment guide for cooperatives
+- Governance playbook + treasury operating guide
+- “Non-technical onboarding kit” for members
+- Public communications assets (summaries, explainer graphics, video demo)
 
 #### Acceptance Criteria
-	Repository meets reproducibility standard: “any cooperative can deploy”
-	•	Documentation tested by at least one new external evaluator
-	•	No proprietary dependencies or blockers for self-hosting
-	•	Community announcement and onboarding call completed
+
+- Repository meets reproducibility standard: “any cooperative can deploy”
+- Documentation tested by at least one new external evaluator
+- No proprietary dependencies or blockers for self-hosting
+- Community announcement and onboarding call completed
 
 #### Evidence of Completion
-	•	GitHub repository link
-	•	Documentation site / Wiki link
-	•	Public announcement post + community call recording
-	•	Third-party confirmation that the kit successfully deploys
+- GitHub repository link
+- Documentation site / Wiki link
+- Public announcement post + community call recording
+- Third-party confirmation that the kit successfully deploys
 
 #### Delivery Month
 10
@@ -480,22 +493,20 @@ Public GitHub + docs + templates + deployment guide + governing playbook
 
 ### Project Team
 
-
-
 The selfdriven Foundation team has been working for more than five years at the intersection of community governance, decentralised identity, and practical real-world blockchain adoption. We specialise in building systems that make complex Web3 tooling usable by everyday people, with a strong focus on education, cooperatives, and inclusive economic participation.
 
 This proposal is led by a multidisciplinary team combining:
-	•	Smart contract engineers experienced in Cardano development
-	•	UX and product designers specialising in human-centred design for non-technical users
-	•	Identity and governance specialists with applied SSI and cooperative governance experience
-	•	Cooperative advisors and community facilitators supporting real-world organisational change
+	- Smart contract engineers experienced in Cardano development
+	- UX and product designers specialising in human-centred design for non-technical users
+	- Identity and governance specialists with applied SSI and cooperative governance experience
+	- Cooperative advisors and community facilitators supporting real-world organisational change
 
 The team already has production deployments of organisational operating systems across education, insurance, health, and community development — giving us direct experience delivering end-to-end systems, not just proof-of-concepts.
 
 We are confident executing this proposal because we have:
-	•	a proven model for translating real-world organisational processes into digital and on-chain flows
-	•	experience engaging non-technical participants and scaffolding change management
-	•	the entire required skillset in-house, removing dependency risk on external contractors
+	- a proven model for translating real-world organisational processes into digital and on-chain flows
+	- experience engaging non-technical participants and scaffolding change management
+	- the entire required skillset in-house, removing dependency risk on external contractors
 
 The team is strengthened by strategic collaboration with members of The Beyonders Collective, who will operate as the live pilot partner. Their direct participation ensures that every design and technical decision is grounded in real cooperative needs, not abstract assumptions.
 
@@ -505,103 +516,92 @@ If everyday communities cannot use it — it is not adoption.
 
 Our experience, track record, and community-first approach position us to deliver a reliable, repeatable, and community-beneficial operating model for cooperatives on Cardano, and to do so in a way that can be scaled and replicated globally.
 
-Mark (Project Lead)
+- Mark (Project Lead)
 - Bence (Organisation Lead)
 - Damian (Systems Lead)
 - Dirk (Business)
 - Cassia (Community Engagement)-
-Jamie (Communications)
+- Jamie (Communications)
 
 ### Budget & Costs
 
-M1 – Project Management Plan – 20,000 ADA
-Project Management: Scope definition, stakeholder mapping, work-breakdown structure, risk register, QA plan, comms plan, delivery calendar – 18,000 ADA
+**M1 – Project Management Plan – 20,000 ADA**
 
+Project Management: Scope definition, stakeholder mapping, work-breakdown structure, risk register, QA plan, comms plan, delivery calendar – 18,000 ADA
 
 Tools & Admin: Project repository setup, version control, reporting templates, meeting facilitation tools – 2,000 ADA
 
+**M2 – Design & Build – 80,000 ADA**
 
-M2 – Design & Build – 80,000 ADA
-Solution Architecture & Design: BioChar use-case design, process mapping (inputs/outputs), data schema definition, public/private data categorisation – 16,000 ADA
-
+Solution Architecture & Design: Use-case design, process mapping (inputs/outputs), data schema definition, public/private data categorisation – 16,000 ADA
 
 Community Cardano Kit Development: Core build of Community Cardano Kit components, integration with Selfdriven.network On-Chain, SSI & AI interfaces – 50,000 ADA
 
-
 Cardano Network Integration: Mapping to Cardano assets, AVS/partner-chains setup, integration of AVS features including Midnight compatibility – 30,000 ADA
-
 
 Interface Enhancements: Updating On-Chain interface reference and implementing UI/UX improvements for community onboarding – 14,000 ADA
 
-
 Testing & Quality Assurance: Internal QA, functionality verification, interface validation, regression testing – 10,000 ADA
-
 
 Infrastructure & Tools: Dev environment setup, hosting costs, Cardano testnet/mainnet interactions, required software licenses – 10,000 ADA
 
-
 Contingency (5%): Buffer for unexpected technical challenges or integration dependencies – 10,000 ADA
 
+**M3 – Use / Test – Pilot – 60,000 ADA**
 
-M3 – Use / Test – Pilot – 60,000 ADA
 Deployment & Setup: Deploy Community Cardano Kit in BioHub pilot environment, configure network and infrastructure – 12,000 ADA
-
 
 User Onboarding & Training: Create onboarding pathways, run training workshops, support initial users – 10,000 ADA
 
-
 Field Testing & Feedback: Run live tests, gather feedback, analyse performance data, make adjustments – 12,000 ADA
-
 
 Reporting & Review: Document test results, lessons learned, and recommendations for scaling – 6,000 ADA
 
-
 Pilot Contingency / Support Capacity – 20,000 ADA
-
 
 (Pilot contingency allows extra dev & support hours if uptake is high — aligns with Catalyst expectation that funds follow real usage.)
 
-M4 – Document / Socialise / Publish – 40,000 ADA
+**M4 – Document / Socialise / Publish – 40,000 ADA**
+
 Documentation: Compile final public docs, onboarding materials, reports and technical integration notes – 30,000 ADA
 
-
 Community Engagement: Presentations, social media promotion, partnership announcements, case studies – 5,000 ADA
-
 
 Production & Publishing: Video walkthroughs, assets, website updates, graphical comms – 5,000 ADA
 
 ### Value for Money
 
-High leverage:
+**High leverage:**
+
 A reusable Kit + a real pilot. Delivers open standards, working code, and a public case study that others can clone. Strengthens Cardano’s positioning for verifiable community processes using partner‑chains and AVS, while keeping costs modest and outcomes concrete.
 
 Small investment with value in:
-Network usage - transaction fees
-Marketing
-Developer on-boarding
+- Network usage - transaction fees
+- Marketing
+- Real-world on-boarding
 
 This proposal delivers strong value for money because it converts a single funded pilot into a reusable, open-source product that can be adopted by an unlimited number of cooperatives without further Catalyst funding.
 
-Instead of funding technology that benefits one organisation, Catalyst funds:
-	•	a fully built cooperative operating model on Cardano
-	•	templates, dashboards, smart contracts, training materials
-	•	a complete onboarding kit for any cooperative
+Instead of funding technology that benefits one organisation, this funds:
+- a fully built cooperative operating model on Cardano
+- templates, dashboards, smart contracts, training materials
+- a complete onboarding kit for any cooperative
 
 Each future deployment:
-	•	increases real-world on-chain transactions
-	•	creates new recurring users of ADA / USDM
-	•	grows the grassroots Cardano economy
+- increases real-world on-chain transactions
+- creates new recurring users of ADA / USDM
+- grows the grassroots Cardano economy
 
 The approach is cost-efficient because:
-	•	the full stack (contracts, UX, docs, onboarding) is built once and reused many times
-	•	the team is already established and requires no ramp-up spending
-	•	no funding is used for token launches, speculative assets, or unnecessary marketing
+- the full stack (contracts, UX, docs, onboarding) is built once and reused many times
+- the team is already established and requires no ramp-up spending
+- no funding is used for token launches, speculative assets, or unnecessary marketing
 
 Every ADA requested contributes directly to:
-	•	engineering
-	•	user onboarding
-	•	open-source infrastructure
-	•	community access
+- engineering
+- user onboarding
+- open-source infrastructure
+- community access
 
 By focusing on production-ready software and real-world economic activation, this project generates multiplying ecosystem value over time, not one-off impact.
 
@@ -687,22 +687,17 @@ This proposal delivers a reusable Cardano-powered “Community Cardano Kit” th
 
 The pilot partner is The Beyonders Collective, a real craft-based cooperative in Mallorca, Spain. The project converts their existing operations into a fully functioning on-chain model and then publishes everything as open-source templates and onboarding resources, enabling other cooperatives worldwide to copy and adapt the model without technical expertise.
 
-- Crafters
-- Photos
-
 Non-technical cooperatives want to benefit from decentralised finance and shared ownership, but:
-	•	blockchain onboarding is too technical
-	•	treasury and revenue pooling systems are hard to operate securely
-	•	no simple UX exists for cooperative payments using ADA / stablecoins
-	•	governance and membership tracking remain manual, inefficient and error-prone
+- blockchain onboarding is too technical
+- treasury and revenue pooling systems are hard to operate securely
+- no simple UX exists for cooperative payments using ADA / stablecoins
+- governance and membership tracking remain manual, inefficient and error-prone
 
 This locks everyday cooperatives — craft groups, community associations, art collectives — out of the Cardano economy.
 
 ---
 
-Beyonders - Coop
-Using Cardano to support decentralised Cooperatives.
-Solving many of the operational issues that create friction.
+Use-Cases Scope:
 
 - Taking of payments
     - TradToken
@@ -717,9 +712,12 @@ Solving many of the operational issues that create friction.
 
 [More](https://github.com/selfdriven-foundation/onboarding/tree/main/use-cases/beyonders-collective-biohub-mallorca)
 
+---
+
 It is difficult for non-technical organisations to engage with the Cardano network in a meaningful way.
 From definition to provisioning on Cardano.
-Work with the Beyonders Collective to deliver a real use project, based on a co-developed open-source kit - from definition to implementation.
+Work with the Beyonders Collective to deliver
+ a real use project, based on a co-developed open-source kit - from definition to implementation.
 From prototyping to real use.
 
 Definitions
@@ -756,33 +754,46 @@ Leveraging:
 
 ## Related
 
-- [selfdriven.health](https://selfdriven.health)
+- [selfdriven.community](https://selfdriven.community)
 - [Common Proposal Checklist](/cardano-catalyst/proposal/checklist/)
-
 
 ## FAQS
 
-Concern reviewers often raise
-Response for evaluators
-Is it too ambitious?
+**Is it too ambitious?**
+
 Scope is proven — team has built similar systems before and the whole plan is milestone-locked with a single cooperative pilot.
-Who will use it?
+
+**Who will use it?**
+
 The Beyonders Collective is confirmed as the live pilot; the output is a reusable kit for any cooperative globally.
-Is it speculation?
+
+**Is it speculation?**
+
 No tokens, no hype. Real payments, real users, real income distribution.
-Will people outside crypto adopt it?
+
+**Will people outside crypto adopt it?**
+
 UX is designed for non-technical users. No blockchain terminology required to participate.
-How does it benefit Cardano?
+
+**How does it benefit Cardano?**
+
 Creates recurring payments, new wallet users, and sustainable grassroots economic activity on ADA / USDM.
-What happens after funding?
+
+**What happens after funding?**
+
 No further funding required — the kit is open-source and reusable. Revenue model is optional hosted services, not more Catalyst requests.
-Is the team capable?
+
+**Is the team capable?**
 Team has delivered smart contracts + governance + SSI + onboarding in real organisations before.
-What if the cooperative drops out?
+
+**What if the cooperative drops out?**
+
 Commitment is formalised before build. If failure happens, the code and kit still launch publicly.
-Is the budget fair?
+
+**Is the budget fair?**
 Every line item ties to delivery of reusable open-source infra and onboarding — no marketing fluff.
-How will success be verified?
+
+**How will success be verified?**
 On-chain transactions + governance events + distribution cycles + documentation + case study.
 
 
