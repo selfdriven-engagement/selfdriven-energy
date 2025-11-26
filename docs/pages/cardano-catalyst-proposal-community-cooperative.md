@@ -92,7 +92,7 @@ In total per community:
 
 Number of communities:
 - Year 1: 4
-- Year 2: 20
+- Year 2: 10
 
 ---
 
@@ -104,49 +104,49 @@ Build and pilot a full on-chain operating model for a cooperative, then release 
 
 Define → model the cooperative → deploy the Cardano smart contract kit → onboard members → go live.
 
-#### Membership NFT / credential
+**Membership NFT / credential**
 
 Manages cooperative membership + voting rights
 
-#### Wallet + USDM / ADA payment flow
+**Wallet + USDM / ADA payment flow**
 
 Sales + monthly contributions + shared pool payouts
 
-#### Treasury smart contract
+**Treasury smart contract**
 
 Self-managed community fund with controlled withdrawals
 
-#### Governance module
+**Governance module**
 
 Proposals, voting, quorum, configurable rules
 
-#### SSI (optional)
+**SSI**
 
-Verifiable identity for roles (treasurer, chair, member)
+Verifiable identity for roles
 
-#### Reporting dashboard
+**Reporting dashboard**
 
 Sales, payouts, contributions, member onboarding
 
-#### Autopay & distributions
+**Autopay & distributions**
 
 Member earnings + recurring contributions
 
-#### Human-forward Approach
+**Human-forward Approach**
 
 No blockchain knowledge required. Members interact via:
 - Web dashboard
 - Wallet connect + QR payments
 - “Role-based actions” rather than blockchain jargon
 
-#### Pilot Deployment
+**Pilot Deployment**
 
 The Beyonders Collective becomes the first production user.
 They will:
-	1.	onboard 25 members
-	2.	accept payments in ADA/USDM for artisan goods
-	3.	split earnings through the cooperative treasury
-	4.	govern decisions collectively
+1.	onboard 10 members
+2.	accept payments in ADA/USDM for artisan goods
+3.	split earnings through the cooperative treasury
+4.	govern decisions collectively
 
 All templates, documents, and modules created for the pilot are published openly.
 
@@ -163,62 +163,60 @@ Craft and maker cooperatives represent a large, global, and economically underse
 
 The impact is both direct (for the pilot cooperative) and multiplying (for the broader ecosystem):
 
-Direct Impact
-	- 25+ members transition to on-chain payments and income distribution
-	- Transparent treasury and governance reduce disputes and administrative overhead
-	- New income streams for artisans selling goods through the cooperative using ADA/USDM
-	- Financial agency shifts from a central coordinator to the collective itself
+**Direct Impact**
+- 25+ members transition to on-chain payments and income distribution
+- Transparent treasury and governance reduce disputes and administrative overhead
+- New income streams for artisans selling goods through the cooperative using ADA/USDM
+- Financial agency shifts from a central coordinator to the collective itself
 
-Systemic Impact
-	- The pilot becomes a case study and onboarding blueprint for other cooperatives
-	- The open-source “Community Cardano Kit” offers a repeatable pattern of real-world usage
-	- Demonstrates clear economic utility of ADA and USDM in daily transactions
-	- Strengthens Cardano’s positioning as a platform for inclusive economic participation, not speculation
+**Systemic Impact**
+- The pilot becomes a case study and onboarding blueprint for other cooperatives
+- The open-source “Community Cardano Kit” offers a repeatable pattern of real-world usage
+- Demonstrates clear economic utility of ADA and USDM in daily transactions
+- Strengthens Cardano’s positioning as a platform for inclusive economic participation, not speculation
 
-Network Effects
+**Network Effects**
 
 Each cooperative that launches using the kit creates:
-	- additional wallet holders
-	- ongoing transaction activity
-	- funds retained within Cardano
-	- community education ripple effects as members introduce peers
+- additional wallet holders
+- ongoing transaction activity
+- funds retained within Cardano
+- community education ripple effects as members introduce peers
 
 This means one successful project becomes a catalyst for many more, without requiring repeated Catalyst funding.
 
-Why this matters for the Cardano mission
+**Why this matters for the Cardano mission**
 
 Cardano aims to support prosperity and participation for all.
 Cooperatives — especially craft, cultural, and local-enterprise groups — are a perfect match:
-	- communally owned
-	- democratically governed
-	- value created at the edge rather than the centre
+- communally owned
+- democratically governed
+- value created at the edge rather than the centre
 
 By giving these communities digital sovereignty through Cardano, this project directly advances:
-	- financial inclusion
-	- participatory governance
-	- real economic utility for ADA
+- financial inclusion
+- participatory governance
+- real economic utility for ADA
 
-Impact beyond the pilot
+**Impact beyond the pilot**
 
 Because the kit is open-source and designed for non-technical adoption, the model can scale into:
-	- agricultural and food cooperatives
-	- community wellness collectives
-	- childcare and education co-ops
-	- First Nations / Indigenous community enterprises
-	- creative and cultural associations
-	- shared-resource collectives (makerspaces, tool libraries, fab labs)
+- agricultural and food cooperatives
+- community wellness collectives
+- childcare and education co-ops
+- First Nations / Indigenous community enterprises
+- creative and cultural associations
+- shared-resource collectives (makerspaces, tool libraries, fab labs)
 
 Each new deployment reinforces Cardano as the blockchain of real-world community economics.
 
-This proposal delivers high ecosystem value because:
-	- it creates daily, repeatable, grassroots Cardano usage
-	- it empowers non-technical people to participate economically
-	- it establishes a pathway for global replication without additional funding
-	- it strengthens Cardano’s reputation as the blockchain for social, economic and cooperative empowerment
+**This proposal delivers high ecosystem value because:**
+- it creates daily, repeatable, grassroots Cardano usage
+- it empowers non-technical people to participate economically
+- it establishes a pathway for global replication without additional funding
+- it strengthens Cardano’s reputation as the blockchain for social, economic and cooperative empowerment
 
-In short:
-This is not “blockchain for cooperatives” — it is cooperatives powered by Cardano.
-And once demonstrated in the real world, it becomes impossible to ignore.
+*This is not “blockchain for cooperatives” — it is cooperatives powered by Cardano.*
 
 ### Capabilities & Feasibility
 
@@ -324,13 +322,10 @@ The required technology stack — Cardano smart contracts, wallets, USDM (option
 
 #### Title
 
-Project Management Plan
+Project Management Plan & Foundation
 
 #### Outputs
-Project management plan detailing:
-What, How, Who, When, Where and Risks
-
-Cooperative research, financial flows, decision design, UX mapping
+A comprehensive project plan document that outlines scope, stakeholder mapping, work-breakdown structure, risk register, QA approach, communications strategy, and a detailed project delivery calendar, ensuring every participant has clarity on responsibilities, sequencing, milestones, decision points, and success measures throughout the execution of the community cooperative pilot.
 
 #### Acceptance Criteria
 A single PDF plan in the repo with: scope, stakeholder map, work‑breakdown, risk register, QA plan, comms plan, and delivery calendar.
@@ -359,29 +354,29 @@ Smart Contract Suite, Identity Integration & Dashboard Development
 
 Membership contract, treasury module, payment flows, governance module, onboarding dashboard
 
-Design
-	- Cooperative operating model converted into technical + governance blueprint
-	- Process maps for payments, revenue distribution, onboarding, and decision-making
-	- UX wireframes for dashboard, onboarding flow, and treasury controls
-	- Technical architecture for smart contracts + SSI + ADA/USDM payments
+**Design:**
+- Cooperative operating model converted into technical + governance blueprint
+- Process maps for payments, revenue distribution, onboarding, and decision-making
+- UX wireframes for dashboard, onboarding flow, and treasury controls
+- Technical architecture for smart contracts + SSI + ADA/USDM payments
 
-Build:
-	- Membership contract (NFT/credential logic)
-	- Treasury contract with distribution rules
-	- Governance module (proposals + voting + quorum)
-	- Payment flow using ADA + optional USDM
-	- Dashboard with role-based UX and wallet connect
-	- Backend indexing + reporting APIs
+**Build:**
+- Membership contract (NFT/credential logic)
+- Treasury contract with distribution rules
+- Governance module (proposals + voting + quorum)
+- Payment flow using ADA + optional USDM
+- Dashboard with role-based UX and wallet connect
+- Backend indexing + reporting APIs
 
 #### Acceptance Criteria
 
-Design:
+**Design:**
 - Design artefacts reviewed and approved by the Beyonders Collective pilot group
 - User requirements mapped to system flows and incorporated into UX
 - Design validated with both technical and non-technical participants
 - Finalised scope and backlog approved for build phase
 
-Build:
+**Build:**
 - Membership contract (NFT/credential logic)
 - Treasury contract with distribution rules
 - Governance module (proposals + voting + quorum)
@@ -391,13 +386,13 @@ Build:
 
 #### Evidence of Completion
 
-Design:
+**Design:**
 - Public design documentation in GitHub
 - UX wireframes / Figma link
 - Meeting record / sign-off document from the cooperative
 - Architecture and implementation backlog published
 
-Build:
+**Build:**
 - GitHub repos with contract code + dashboard code
 - Testnet deployment addresses
 - API documentation and demo video
@@ -420,15 +415,15 @@ Use & Reflect - Live Deployment with The Beyonders Collective + Workshops
 
 #### Outputs
 Member onboarding, payments go-live, training resources, video walk-throughs, case study docs
-	- Cooperative members onboarded to the platform
-	- Live payments in ADA/USDM for artisan goods
-	- Governance and voting active for real proposals
-	- Distributions executed using cooperative treasury
-	- Training resources: video walkthroughs, onboarding docs, facilitator notes
+- Cooperative members onboarded to the platform
+- Live payments in ADA/USDM for artisan goods
+- Governance and voting active for real proposals
+- Distributions executed using cooperative treasury
+- Training resources: video walkthroughs, onboarding docs, facilitator notes
 
 #### Acceptance Criteria
 
-- Minimum 25 pilot participants onboarded
+- Minimum 10 pilot participants onboarded
 - Minimum 50 real transactions processed
 - Minimum 5 governance proposals created and voted on
 - At least one income distribution cycle completed
@@ -493,20 +488,20 @@ Public Release of the “Community Cardano Kit” for Repeat Deployment
 
 ### Project Team
 
-The selfdriven Foundation team has been working for more than five years at the intersection of community governance, decentralised identity, and practical real-world blockchain adoption. We specialise in building systems that make complex Web3 tooling usable by everyday people, with a strong focus on education, cooperatives, and inclusive economic participation.
+**The selfdriven Foundation team has been working for more than five years at the intersection of community governance, decentralised identity, and practical real-world blockchain adoption. We specialise in building systems that make complex Web3 tooling usable by everyday people, with a strong focus on education, cooperatives, and inclusive economic participation.**
 
 This proposal is led by a multidisciplinary team combining:
-	- Smart contract engineers experienced in Cardano development
-	- UX and product designers specialising in human-centred design for non-technical users
-	- Identity and governance specialists with applied SSI and cooperative governance experience
-	- Cooperative advisors and community facilitators supporting real-world organisational change
+- Smart contract engineers experienced in Cardano development
+- UX and product designers specialising in human-centred design for non-technical users
+- Identity and governance specialists with applied SSI and cooperative governance experience
+- Cooperative advisors and community facilitators supporting real-world organisational change
 
 The team already has production deployments of organisational operating systems across education, insurance, health, and community development — giving us direct experience delivering end-to-end systems, not just proof-of-concepts.
 
 We are confident executing this proposal because we have:
-	- a proven model for translating real-world organisational processes into digital and on-chain flows
-	- experience engaging non-technical participants and scaffolding change management
-	- the entire required skillset in-house, removing dependency risk on external contractors
+- a proven model for translating real-world organisational processes into digital and on-chain flows
+- experience engaging non-technical participants and scaffolding change management
+- the entire required skillset in-house, removing dependency risk on external contractors
 
 The team is strengthened by strategic collaboration with members of The Beyonders Collective, who will operate as the live pilot partner. Their direct participation ensures that every design and technical decision is grounded in real cooperative needs, not abstract assumptions.
 

@@ -5,7 +5,7 @@ permalink: /cardano-catalyst/proposal/health-systems-cooperative/
 ---
 
 ## Cardano Catalyst Proposal
-# Powering a Health Systems Cooperative using Cardano, by selfdriven & beHub
+# Powering New Health Systems using Cardano, by selfdriven & beHub
 
 A part of the [selfdriven Health](https://selfdriven.health) initative.
 
@@ -46,7 +46,7 @@ But it is difficult for non-technical health system organisations to engage with
 
 ### Solution Overview
 
-*Partner with beHub to deploy an open-source Health Cooperative Kit, enabling health organisations to roll out blockchain, SSI and AI-accountable operations across traditional and emerging services.*
+*Partner with beHub to deploy an open-source Health Systems Cooperative Kit, enabling health organisations to roll out blockchain, SSI and AI-accountable operations across traditional and emerging services.*
 
 Partner with the beHub to run a real implementation project, built using a co-developed open-source Health Cooperative Kit that supports the full journey from definition to deployment.
 
@@ -96,6 +96,7 @@ Generation of:
 - Proofs of identity
 - Coop member self-use ie create own wallet - DeFi usage.
 
+[NUMBERS]
 ---
 
 ## Your Project and Solution
@@ -264,7 +265,7 @@ Public link to repository showing the plan file + version tag + commit history.
 
 #### Title
 
-Design & Build -  Health Systems Cooperative Kit v1
+Design & Build -  Health Systems Cooperative Kit
 
 #### Outputs
 
@@ -275,8 +276,7 @@ Design & Build -  Health Systems Cooperative Kit v1
 
 #### Acceptance Criteria
 
-- A cooperative blueprint file can generate cooperative scripts + DID/credential structure
-- End-to-end “happy path” works for one pilot cooperative
+A cooperative blueprint file that can automatically generate cooperative scripts and the corresponding DID/credential structure, for the selfdriven Health cooperative from onboarding to identity issuance, member wallet setup, cooperative actions, and proof-of-participation, showing the full lifecycle can run on the selfdriven Health cooperative stack without manual intervention.
 
 #### Evidence of Completion
 
@@ -296,19 +296,17 @@ Design & Build -  Health Systems Cooperative Kit v1
 
 #### Title
 
-Use & Reflect - Pilot Deployment with selfdriven Health Cooperative
+Use & Reflect - Deployment with selfdriven Health Cooperative
 
 #### Outputs
 
-- Live pilot deployment with participating health organisations
+- Live deployment with participating health organisations
 - Governance, membership onboarding, identity issuance and treasury operations activated
 - Guided onboarding flows for non-technical users
 
 #### Acceptance Criteria
 
-- Minimum 5 pilot organisations onboarded
-- Minimum 25 members issued credentials and onboarded with wallets
-- First cooperative proposals + votes recorded
+A successful milestone is demonstrated by onboarding the selfdriven Health organisations, issuing credentials and wallets to a minimum of 10 members, and recording the first cooperative proposals and votes on-chain, proving the membership, governance, credentialing, and decision-making flows all operate in a real environment with verifiable participation and accountability across the selfdriven Health network.
 
 #### Evidence of Completion
 
