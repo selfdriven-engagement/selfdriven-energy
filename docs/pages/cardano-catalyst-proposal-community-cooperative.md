@@ -527,47 +527,52 @@ Our experience, track record, and community-first approach position us to delive
 
 **M1 – Project Management Plan – 20,000 ADA**
 
-Project Management: Scope definition, stakeholder mapping, work-breakdown structure, risk register, QA plan, comms plan, delivery calendar – 18,000 ADA
+Project Management:
+Scope definition, stakeholder mapping, work-breakdown structure, risk register, QA plan, comms plan, delivery calendar – 18,000 ADA
 
-Tools & Admin: Project repository setup, version control, reporting templates, meeting facilitation tools – 2,000 ADA
+Tools & Admin:
+Project repository setup, version control, reporting templates, meeting facilitation tools – 2,000 ADA
 
 **M2 – Design & Build – 80,000 ADA**
 
-Solution Architecture & Design: Use-case design, process mapping (inputs/outputs), data schema definition, public/private data categorisation – 16,000 ADA
+Solution Architecture & Design:
+Use-case design, process mapping (inputs/outputs), data schema definition, public/private data categorisation – 5,000 ADA
 
-Community Cardano Kit Development: Core build of Community Cardano Kit components, integration with Selfdriven.network On-Chain, SSI & AI interfaces – 50,000 ADA
+Community Cardano Kit Development:
+Core build of Community Cardano Kit components, integration with Selfdriven.network On-Chain, SSI & AI interfaces – 50,000 ADA
 
-Cardano Network Integration: Mapping to Cardano assets, AVS/partner-chains setup, integration of AVS features including Midnight compatibility – 30,000 ADA
+selfdriven / Cardano Network Integration:
+Mapping to Cardano assets, AVS/partner-chains setup, integration of AVS features including Midnight compatibility – 10,000 ADA
 
-Interface Enhancements: Updating On-Chain interface reference and implementing UI/UX improvements for community onboarding – 14,000 ADA
+Interface Enhancements:
+Updating On-Chain interface reference and implementing UI/UX improvements for community onboarding – 10,000 ADA
 
-Testing & Quality Assurance: Internal QA, functionality verification, interface validation, regression testing – 10,000 ADA
-
-Infrastructure & Tools: Dev environment setup, hosting costs, Cardano testnet/mainnet interactions, required software licenses – 10,000 ADA
-
-Contingency (5%): Buffer for unexpected technical challenges or integration dependencies – 10,000 ADA
+Testing & Quality Assurance:
+Internal QA, functionality verification, interface validation, regression testing – 5,000 ADA
 
 **M3 – Use / Test – Pilot – 60,000 ADA**
 
-Deployment & Setup: Deploy Community Cardano Kit in BioHub pilot environment, configure network and infrastructure – 12,000 ADA
+Deployment & Setup:
+Deploy Community Cardano Kit in BioHub pilot environment, configure network and infrastructure – 5,000 ADA
 
-User Onboarding & Training: Create onboarding pathways, run training workshops, support initial users – 10,000 ADA
+User Onboarding & Training:
+Create onboarding pathways, run training workshops, support initial users – 35,000 ADA
 
-Field Testing & Feedback: Run live tests, gather feedback, analyse performance data, make adjustments – 12,000 ADA
+Field Testing & Feedback:
+Run live tests, gather feedback, analyse performance data, make adjustments – 15,000 ADA
 
-Reporting & Review: Document test results, lessons learned, and recommendations for scaling – 6,000 ADA
-
-Pilot Contingency / Support Capacity – 20,000 ADA
-
-(Pilot contingency allows extra dev & support hours if uptake is high — aligns with Catalyst expectation that funds follow real usage.)
+Reporting & Review: Document test results, lessons learned, and recommendations for scaling – 5,000 ADA
 
 **M4 – Document / Socialise / Publish – 40,000 ADA**
 
-Documentation: Compile final public docs, onboarding materials, reports and technical integration notes – 30,000 ADA
+Documentation:
+Compile final public docs, onboarding materials, reports and technical integration notes – 30,000 ADA
 
-Community Engagement: Presentations, social media promotion, partnership announcements, case studies – 5,000 ADA
+Community Engagement:
+Presentations, social media promotion, partnership announcements, case studies – 5,000 ADA
 
-Production & Publishing: Video walkthroughs, assets, website updates, graphical comms – 5,000 ADA
+Production & Publishing:
+Video walkthroughs, assets, website updates, graphical comms – 5,000 ADA
 
 ### Value for Money
 
