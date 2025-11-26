@@ -4,7 +4,8 @@ title: Cardano Catalyst - selfdriven Energy
 permalink: /cardano-catalyst/proposals/
 ---
 
-## Cardano Catalyst - Most Recent Proposals
+## Cardano Catalyst
+# Most Recent Proposals
 
 We have a range of impactful and reusable Catalyst Proposals in Fund14. Delivering real-solutions, onboarding & kits for the community.
 

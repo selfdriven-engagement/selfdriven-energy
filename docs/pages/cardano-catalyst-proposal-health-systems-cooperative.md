@@ -81,14 +81,15 @@ Cardano Use Cases: Prototype & Launch
 
 ### Describe what makes your idea innovative compared to what has been previously launched in the market (whether by you or others)
 
-We can not find any existing product or catalyst proposal that can work from an “intent definition” to a “fully provisioned decentralised cooperative system”.
+We cannot find any existing product or Catalyst proposal that takes a health initiative all the way from an initial intent definition through to a fully provisioned, operational, decentralised cooperative system. The gap is end-to-end delivery: most solutions focus on tooling or pilots, but none provide the full pathway for real health organisations to define a mission, coordinate stakeholders, establish governance, deploy infrastructure, and operate a live cooperative model.
 
 ### Describe what your prototype or MVP will demonstrate, and where it can be accessed.
 
-https://coop.selfdriven.health (based on org.selfdriven.app and app.behub.io)
-It will demonstrate the existing generic functionality that we will add self-actuation to - ie define-to-provision.
+The prototype will be accessible at https://coop.selfdriven.health (built on org.selfdriven.app and app.behub.io). It will show the current cooperative platform in action and demonstrate how self-actuation extends it — guiding a health organisation from definition of intent through to a fully provisioned decentralised cooperative system with governance, identity, and deployment steps built in.
 
 ### Describe realistic measures of success, ideally with on-chain metrics
+
+Success can be measured through clear on-chain signals. These include the generation of cooperative scripts and Plutus addresses to manage shared assets, proofs of identity issued and verified, and evidence of cooperative members actively using the system themselves — such as creating their own wallets and participating in DeFi activity as part of healthcare operations.
 
 Generation of:
 - Coop Script/Plutus Addresses for managing shared assets
