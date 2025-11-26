@@ -4,7 +4,7 @@ title: Cardano Catalyst Proposal - Health Cooperative
 permalink: /cardano-catalyst/proposal/health-systems-cooperative/
 ---
 
-# Cardano Catalyst Proposal
+## Cardano Catalyst Proposal
 # Powering a Health Systems Cooperative using Cardano, by selfdriven & beHub
 
 A part of the [selfdriven Health](https://selfdriven.health) initative.
@@ -79,7 +79,7 @@ We can not find any existing product or catalyst proposal that can work from an 
 
 ### Describe what your prototype or MVP will demonstrate, and where it can be accessed.
 
-https://coop.selfdriven.app (org)
+https://coop.selfdriven.health (org)
 It will demonstrate the existing generic functionality that we will add self-actuation to - ie define-to-provision.
 
 ### Describe realistic measures of success, ideally with on-chain metrics

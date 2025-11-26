@@ -4,7 +4,7 @@ title: Cardano Catalyst Proposal - Community Cooperative
 permalink: /cardano-catalyst/proposal/community-cooperative/
 ---
 
-# Cardano Catalyst Proposal
+## Cardano Catalyst Proposal
 # Powering a Community Cooperative using Cardano, by selfdriven & Beyonders Collective
 
 ---
@@ -71,8 +71,10 @@ We can not find any existing product or catalyst proposal that can work from an 
 
 ### Describe what your prototype or MVP will demonstrate, and where it can be accessed.
 
-https://coop.selfdriven.app (org)
-It will demonstrate the existing generic functionality that we will add self-actuation to - ie definition-to-provision.
+It will demonstrate the existing generic functionality available in the selfdriven network On-Chain (Cardano) Interace and Human Interface,customised for this particular use case - incliding the ability to self-actuate to auto-provisioning by intent definitions (templates).
+
+https://coop.selfdriven.app - based on the existing https://org.selfdriven.app.
+
 
 ### Describe realistic measures of success, ideally with on-chain metrics
 
@@ -84,13 +86,13 @@ Per community:
 - Community member indiviudal-use ie create own wallet - DeFi usage. Using selfdriven guides like https://www.selfdriven.support/guides/getting-on-chain/
 
 In total per community:
-•	“50 cooperative members onboarded within pilot.”
-•	“500 transactions processed within first 3 months.”
-•	“Reduction of manual reconciliation time by 70%.”
+- “20 cooperative members onboarded within pilot.”
+- “100 script addresses within pilot.”
+- “9000 transactions (sales + DeFi) processed within first 3 months of going life.”
 
 Number of communities:
-- Year 1: 10
-
+- Year 1: 4
+- Year 2: 20
 ---
 
 ## Your Project and Solution
@@ -101,29 +103,40 @@ Build and pilot a full on-chain operating model for a cooperative, then release 
 
 Define → model the cooperative → deploy the Cardano smart contract kit → onboard members → go live.
 
-Component
-Function
-Membership NFT / credential
+#### Membership NFT / credential
+
 Manages cooperative membership + voting rights
-Wallet + USDM / ADA payment flow
+
+#### Wallet + USDM / ADA payment flow
+
 Sales + monthly contributions + shared pool payouts
-Treasury smart contract
+
+#### Treasury smart contract
+
 Self-managed community fund with controlled withdrawals
-Governance module
+
+#### Governance module
+
 Proposals, voting, quorum, configurable rules
-SSI (optional)
+
+#### SSI (optional)
+
 Verifiable identity for roles (treasurer, chair, member)
-Reporting dashboard
+
+#### Reporting dashboard
+
 Sales, payouts, contributions, member onboarding
-Autopay & distributions
+
+#### Autopay & distributions
+
 Member earnings + recurring contributions
 
 #### Human-forward Approach
 
 No blockchain knowledge required. Members interact via:
-	•	Web dashboard
-	•	Wallet connect + QR payments
-	•	“Role-based actions” rather than blockchain jargon
+- Web dashboard
+- Wallet connect + QR payments
+- “Role-based actions” rather than blockchain jargon
 
 #### Pilot Deployment
 
