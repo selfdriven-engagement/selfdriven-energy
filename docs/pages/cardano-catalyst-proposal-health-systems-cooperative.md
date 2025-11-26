@@ -338,9 +338,7 @@ Document & Socialise - Public Release Kit
 
 #### Acceptance Criteria
 
-- Toolkit usable by external organisations without core-team support
-- Demo instance of Health Cooperative Kit publicly accessible
-- Documentation and onboarding playbook published on the website
+The Health Cooperative Kit is proven when external organisations can use the toolkit independently without core-team support, a public demo instance of the cooperative kit is available for hands-on exploration, and full documentation plus an onboarding playbook are published on the website, enabling new health groups to self-start, configure governance, issue credentials, and activate cooperative operations without requiring internal intervention.
 
 #### Evidence of Completion
 
