@@ -9,10 +9,6 @@ permalink: /cardano-catalyst/proposal/community-cooperative/
 
 ---
 
-## Proposal Title
-
-Powering a Community Cooperative using Cardano, by selfdriven & Beyonders Collective
-
 ## Applicant
 
 ### Name
@@ -52,6 +48,7 @@ https://energy.selfdriven.foundation/cardano-catalyst/proposal/community-coopera
 
 - Cardano network
 - selfdriven.network
+- Beyonders Collective Mallorca Cooperative
 
 ### Project Open Source
 

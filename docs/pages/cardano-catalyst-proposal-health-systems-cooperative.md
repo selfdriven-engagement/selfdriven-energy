@@ -7,11 +7,9 @@ permalink: /cardano-catalyst/proposal/health-systems-cooperative/
 # Cardano Catalyst Proposal
 # Powering a Health Systems Cooperative using Cardano, by selfdriven & beHub
 
-https://selfdriven.health
+A part of the [selfdriven Health](https://selfdriven.health) initative.
 
-## Proposal Title
-
-Powering a Health Cooperative using Cardano, by selfdriven
+---
 
 ## Applicant
 
@@ -40,13 +38,15 @@ No / English
 Traditional Health Care facilities are under pressure.
 With the arrival of GAHI as a society we have the opportunity to decentralise health functions.
 But for it to work they need highly trustable systems,
-But it is difficult for non-technical health system cooperatives to engage with the blockchain & identity technology in a meaningful way.
+But it is difficult for non-technical health system organisations to engage with the blockchain & identity technology in a meaningful way.
 
 ### Solution Overview
 
-Work with the beHub to deliver a real use project, based on a co-developed open-source kit - from definition to implementation.
-From definition to decentralised auto-provisioning on Cardano.
-For a next generation of health systems - AI accountability etc
+Partner with the beHub to run a real implementation project, built using a co-developed open-source Health Cooperative Kit that supports the full journey from definition to deployment.
+
+A cooperative of health organisations will apply and facilitate the introduction of the kit across traditional and emerging health services.
+
+The result is a next-generation health system model where blockchain, SSI and AI accountability are built into everyday health operations.
 
 ### Supporting Documentation
 
@@ -56,6 +56,7 @@ https://energy.selfdriven.foundation/cardano-catalyst/proposal/health-systems-co
 
 - Cardano network
 - selfdriven.network
+- selfdriven.health Cooperative
 
 ### Project Open Source
 
