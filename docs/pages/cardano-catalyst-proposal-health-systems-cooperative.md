@@ -102,12 +102,72 @@ Generation of:
 
 ### Solution
 
+We will build and deliver an open-source Health Cooperative Kit—a fully integrated, end-to-end framework that allows health organisations to move from “intent definition” all the way to a fully operating decentralised cooperative on Cardano.
+- The Kit is based on our existing foundations (org.selfdriven.app, app.behub.io) but enhanced to support health-sector specific cooperative workflows.
+- It codifies a health organisation’s mission, governance, structure, roles and processes using a structured definition (e.g. JSON) — essentially a “blueprint” for what the cooperative should be and how it should operate.
+- Once defined, the Kit automates the generation of on-chain components: cooperative scripts, Plutus addresses for shared assets, identity and membership management via SSI/DID & Verifiable Credentials, and asset-management logic (treasury, payments, exchanges using ADA/USDM, DeFi integrations, etc).
+- The system provides tools and UI for health-organisations (even non-technical) to onboard: register members, issue identities, manage wallets, and transparently handle operations — without requiring deep blockchain or cryptographic knowledge.
+- By combining identity, governance and asset management — the Kit creates a “plug-and-play” model for decentralised health cooperatives. Early adopters (a small network of health providers via beHub) will run a real pilot to validate the concept across traditional and emerging health services.
+
+*This is the first real health-sector implementation that spans definition → governance design → SSI identity → treasury/asset provisioning → live cooperative operations on-chain.*
+
+
+**Key technical components:**
+- Intent & Cooperative Definition Layer
+- Structured cooperative “blueprint” (JSON/YAML) for mission, roles, governance, membership and economic model.
+- Template library for different health cooperative patterns (clinic, allied health network, mutual aid, etc.).
+- Identity & Membership (SSI) Layer
+- DID/SSI wallet integration for organisations and members.
+- Verifiable Credentials for roles (member, practitioner, admin, auditor).
+- Onboarding flows for non-technical users (invite, verify, issue credential).
+- Governance Layer
+- Configurable rules for proposals, voting thresholds, roles and permissions.
+- On-chain / off-chain hybrid governance workflows (e.g. signalling off-chain, enforcement on-chain).
+- Versioned governance profiles so cooperatives can evolve over time.
+- Asset & Treasury Layer
+- Generation of cooperative scripts and Plutus addresses for shared assets.
+- Treasury primitives for ADA/USDM flows (member contributions, fees, payouts, rewards).
+- Hooks for DeFi integrations so members can use their own wallets and participate in shared financial activity.
+- Operations & Workflow Layer
+- Configurable workflows for member onboarding, service access, contribution logging and dispute handling.
+- Role-aware views (member, practitioner, coordinator, auditor) for day-to-day operations.
+- Web App & UX Layer
+- Hosted front-end at coop.selfdriven.health (backed by org.selfdriven.app and app.behub.io).
+- Dashboards for cooperative health: membership, governance activity, treasury status and SSI credential usage.
+- Guided wizards to take a cooperative from “define” to “live on Cardano”.
+- Integration & API Layer
+- APIs for integrating with existing health systems (EHR/clinical systems, booking tools, CRM).
+- Webhooks and event streams for plugging into beHub and other community tools.
+- Monitoring, Proof & Learning Layer
+- On-chain metrics dashboards (scripts created, transactions, identities issued, member wallet usage).
+- Data export for research, impact reporting and further Catalyst proposals.
+
+
 ### Impact
 
-New Cardano use case for small enterprises and communities;
-Repeatable kit lowers adoption friction for future proposals;
-Interoperability with SSI/VC standards;
-Proof‑of‑good primitives that can extend to recycling, food provenance, and community projects. This increases on‑chain activity, showcases partner‑chain + AVS patterns, and strengthens Cardano’s reputation for accountability with privacy.
+This project enables health organisations to adopt blockchain, SSI and cooperative governance in practice — not theory. Instead of more proofs-of-concept, it delivers a live cooperative model that real health providers can operate, learn from and scale.
+
+**The impact is threefold:**
+
+1.	Impact on the health sector
+- Simplifies access to decentralised technology for non-technical health organisations.
+- Strengthens patient and practitioner trust through verifiable identity and transparent governance.
+- Reduces dependency on centralised operators by allowing health organisations to collectively own and govern shared digital infrastructure.
+- Opens the door to new models of care: mutual support networks, community-based resourcing and distributed service delivery.
+
+2.	Impact on Cardano
+- Demonstrates a compelling real-world use case for Cardano combining Plutus, SSI and DeFi in a transparent and socially beneficial sector.
+- Creates repeatable open-source patterns for cooperative formation and on-chain treasury management.
+- Expands Cardano’s footprint into the health industry and generates new opportunities for integrations (identity wallets, payments, service tokens, research registries, etc.).
+
+3.	Impact on communities and individuals
+- Health organisations retain control of their data, membership and financial flows.
+- Members can participate directly — creating wallets, receiving credentials, voting on proposals and benefiting from shared value.
+- Encourages patient-first health models where accountability is built in and value flows back to the community.
+
+The project’s success establishes a reproducible pathway for other sectors (insurance, education, disability support, aged care, telehealth, mental health). Each new cooperative can be created faster and with lower cost because the framework, infrastructure and governance patterns already exist.
+
+*This project doesn’t demonstrate blockchain for health — it operationalises it.*
 
 ### Capabilities & Feasibility
 
@@ -131,7 +191,18 @@ At the selfdriven Foundation he is the Organisational Lead, managing projects an
 
 Damian has over 20 years experience delivering technology projects as part of strategic transformation initiatives, with expertise particularly Salesforce, MuleSoft and its emerging technologies. As co-founder of recently acquired Tquila ANZ, Damian has experience in building teams and delivering enterprise solutions.
 
+**Elizabeth Jones – Co-Founder & Partnership Development Manager**
 
+Elizabeth is a health professional and entrepreneur with over 35 years’ experience across clinical nursing, hospital procurement, sales leadership, and healthcare innovation. A former ICU nurse, she has held senior roles with Ramsay Health Care, Sydney Adventist Hospital, BD, and ICU Medical, leading teams, managing multimillion-dollar procurement portfolios, and forging strategic partnerships in both public and private health. As co-founder of beHub, Elizabeth combines frontline clinical insight with commercial acumen to improve clinician access to accurate device information, streamline onboarding, and enhance patient flow. She continues to work part-time within NSW Health, keeping her closely connected to the realities of hospital operations.
+
+**Brian Halse – Co-Founder & Chair**
+
+Brian Halse is an experienced chair, non-executive director, and governance specialist with over two decades of leadership across agribusiness, education, health technology, and the not-for-profit sector. His career includes CEO roles at ChemCert Australia, High Security Irrigators, and beHub Health, where he co-founded and helped scale the platform to 31 hospitals and 3,000+ clinicians. Known for building trusted stakeholder relationships and delivering organisational transformation, Brian brings deep expertise in strategic governance, financial management, and guiding multi-stakeholder initiatives from concept to execution.
+
+**About beHub**
+
+beHub is an Australian digital health platform transforming how hospitals, manufacturers, and clinicians access medical device and product information. In large, geographically dispersed healthcare systems like Australia’s, frontline staff often struggle to access up-to-date, manufacturer-approved resources when and where they need them. beHub solves this by centralising product and training materials into one secure platform, enabling hospitals to create department-specific device “playlists,” track usage, and receive direct updates from manufacturers.
+Already rolled out to 31 hospitals with over 3,000 clinicians, including some of the most remote facilities in the country, beHub is live across the Murrumbidgee Local Health District in New South Wales and Alice Springs Hospital in the Northern Territory. Operating within NSW Health – one of the world’s largest healthcare systems with 220+ hospitals – the platform ensures every site, from tertiary centres to rural outposts, has instant access to accurate, current device information. Expansion is underway into more NSW and NT hospitals, supported by early manufacturer partnerships and a scalable subscription model for long-term growth.
 
 ---
 
@@ -144,7 +215,7 @@ Damian has over 20 years experience delivering technology projects as part of st
 - Use / Test - Pilot
 - Document / Socialise / Publish
 
-### M1: Milestone #1 ---
+### MILESTONE #1 ---
 
 #### Milestone Title
 
@@ -169,7 +240,7 @@ Link to GitHub repo with the plan (versioned PDF/MD), release tag v0.1, and visi
 #### Progress (% of Project Completion)
 10%
 
-### M2: Milestone #2 ---
+### MILESTONE #2 ---
 
 #### Milestone Title
 
@@ -193,7 +264,7 @@ Design & Build
 #### Progress (% of Project Completion)
 50%
 
-### M3: Milestone #3 ---
+### MILESTONE #3 ---
 
 #### Milestone Title
 
@@ -217,7 +288,7 @@ Use & Reflect
 #### Progress (% of Project Completion)
 80%
 
-### M4: Milestone #4 ---
+### MILESTONE #4 ---
 
 #### Milestone Title
 
