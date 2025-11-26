@@ -217,19 +217,19 @@ Already rolled out to 31 hospitals with over 3,000 clinicians, including some of
 
 ### MILESTONE #1 ---
 
-#### Milestone Title
+#### Title
 
-Project Management Plan
+Project Management Plan & Foundations
 
-#### Milestone Outputs
-Project management plan detailing:
-What, How, Who, When, Where and Risks
+#### Outputs
+
+A comprehensive project plan document covering scope, stakeholder map, work-breakdown, risk register, QA plan, communications plan, and project delivery calendar.
 
 #### Acceptance Criteria
-A single PDF plan in the repo with: scope, stakeholder map, work‑breakdown, risk register, QA plan, comms plan, and delivery calendar.
+A single versioned plan (PDF or Markdown) stored in the project repo, tagged with release v0.1, with a visible commit history and clearly defined roles/responsibilities and timeline.
 
 #### Evidence of Completion
-Link to GitHub repo with the plan (versioned PDF/MD), release tag v0.1, and visible commit history.
+Public link to repository showing the plan file + version tag + commit history.
 
 #### Delivery Month
 1
@@ -244,16 +244,24 @@ Link to GitHub repo with the plan (versioned PDF/MD), release tag v0.1, and visi
 
 #### Milestone Title
 
-Design & Build
+Design & Build -  Health Systems Cooperative Kit v1
 
 #### Milestone Outputs
 
+Initial release of Health Cooperative Kit with define-to-provision workflow
+- Templates for roles, governance, and cooperative blueprint (JSON/YAML)
+- Basic SSI identity flows (issue/verify member credential)
+- Plutus script generation for cooperative addresses
 
 #### Acceptance Criteria
 
+- A cooperative blueprint file can generate cooperative scripts + DID/credential structure
+- End-to-end “happy path” works for one pilot cooperative
 
 #### Evidence of Completion
 
+- Demo video + functioning prototype at https://coop.selfdriven.health
+- v1 release tag in repo with changelog
 
 #### Delivery Month
 5
@@ -268,16 +276,25 @@ Design & Build
 
 #### Milestone Title
 
-Use & Reflect
+Use & Reflect - Pilot Deployment with selfdriven Health Cooperative
 
 #### Milestone Outputs
 
+- Live pilot deployment with participating health organisations
+- Governance, membership onboarding, identity issuance and treasury operations activated
+- Guided onboarding flows for non-technical users
 
 #### Acceptance Criteria
 
+- Minimum 5 pilot organisations onboarded
+- Minimum 25 members issued credentials and onboarded with wallets
+- First cooperative proposals + votes recorded
 
 #### Evidence of Completion
 
+- On-chain metrics: scripts created, transactions, credentials issued
+- Pilot report summarising organisational onboarding & learnings
+- Screenshots/dashboards from live deployment
 
 #### Delivery Month
 8
@@ -292,16 +309,26 @@ Use & Reflect
 
 #### Milestone Title
 
-Document & Socialise
+Document & Socialise - Public Release Kit
 
 #### Milestone Outputs
 
+- Open-source repository + documentation for running a cooperative
+- Deployment and adoption playbook for new sector partners
+- Metrics dashboard showing identity usage, governance activity and treasury flow
+- Presentation + wrap-up video for Catalyst community
 
 #### Acceptance Criteria
 
+- Toolkit usable by external organisations without core-team support
+- Demo instance of Health Cooperative Kit publicly accessible
+- Documentation and onboarding playbook published on the website
 
 #### Evidence of Completion
 
+- Public repository + website updates
+- Final report to Catalyst including on-chain metrics and learnings
+- Presentation video / community demo
 
 #### Delivery Month
 10
@@ -326,61 +353,6 @@ Cassia - confirm role
 
 ### Budget & Costs
 
-M1 – Project Management Plan – 20,000 ADA
-Project Management: Scope definition, stakeholder mapping, work-breakdown structure, risk register, QA plan, comms plan, delivery calendar – 18,000 ADA
-
-
-Tools & Admin: Project repository setup, version control, reporting templates, meeting facilitation tools – 2,000 ADA
-
-
-M2 – Design & Build – 80,000 ADA
-Solution Architecture & Design: BioChar use-case design, process mapping (inputs/outputs), data schema definition, public/private data categorisation – 16,000 ADA
-
-
-Community Cardano Kit Development: Core build of Community Cardano Kit components, integration with Selfdriven.network On-Chain, SSI & AI interfaces – 50,000 ADA
-
-
-Cardano Network Integration: Mapping to Cardano assets, AVS/partner-chains setup, integration of AVS features including Midnight compatibility – 30,000 ADA
-
-
-Interface Enhancements: Updating On-Chain interface reference and implementing UI/UX improvements for community onboarding – 14,000 ADA
-
-
-Testing & Quality Assurance: Internal QA, functionality verification, interface validation, regression testing – 10,000 ADA
-
-
-Infrastructure & Tools: Dev environment setup, hosting costs, Cardano testnet/mainnet interactions, required software licenses – 10,000 ADA
-
-
-Contingency (5%): Buffer for unexpected technical challenges or integration dependencies – 10,000 ADA
-
-
-M3 – Use / Test – Pilot – 60,000 ADA
-Deployment & Setup: Deploy Community Cardano Kit in BioHub pilot environment, configure network and infrastructure – 12,000 ADA
-
-
-User Onboarding & Training: Create onboarding pathways, run training workshops, support initial users – 10,000 ADA
-
-
-Field Testing & Feedback: Run live tests, gather feedback, analyse performance data, make adjustments – 12,000 ADA
-
-
-Reporting & Review: Document test results, lessons learned, and recommendations for scaling – 6,000 ADA
-
-
-Pilot Contingency / Support Capacity – 20,000 ADA
-
-
-(Pilot contingency allows extra dev & support hours if uptake is high — aligns with Catalyst expectation that funds follow real usage.)
-
-M4 – Document / Socialise / Publish – 40,000 ADA
-Documentation: Compile final public docs, onboarding materials, reports and technical integration notes – 30,000 ADA
-
-
-Community Engagement: Presentations, social media promotion, partnership announcements, case studies – 5,000 ADA
-
-
-Production & Publishing: Video walkthroughs, assets, website updates, graphical comms – 5,000 ADA
 
 ### Value for Money
 
