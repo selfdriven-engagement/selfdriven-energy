@@ -37,12 +37,16 @@ No / English
 
 ### Problem Statement
 
+*AI enables decentralised health, but it depends on trusted systems. Non-technical health organisations struggle to adopt blockchain and identity tech needed to make it work.*
+
 Traditional Health Care facilities are under pressure.
 With the arrival of GAHI as a society we have the opportunity to decentralise health functions.
 But for it to work they need highly trustable systems,
 But it is difficult for non-technical health system organisations to engage with the blockchain & identity technology in a meaningful way.
 
 ### Solution Overview
+
+*Partner with beHub to deploy an open-source Health Cooperative Kit, enabling health organisations to roll out blockchain, SSI and AI-accountable operations across traditional and emerging services.*
 
 Partner with the beHub to run a real implementation project, built using a co-developed open-source Health Cooperative Kit that supports the full journey from definition to deployment.
 
@@ -52,7 +56,7 @@ The result is a next-generation health system model where blockchain, SSI and AI
 
 ### Supporting Documentation
 
-https://energy.selfdriven.foundation/cardano-catalyst/proposal/health-systems-cooperative/)
+https://energy.selfdriven.foundation/cardano-catalyst/proposal/health-systems-cooperative/
 
 ### Project Dependencies
 
@@ -68,7 +72,7 @@ Yes (MIT/Apache‑2.0/CCO).
 
 ## Theme Selection
 
-Real World Applications: Business Service
+Real World Applications: Healthcare
 
 ---
 ## Campaign Selection
@@ -81,14 +85,13 @@ We can not find any existing product or catalyst proposal that can work from an 
 
 ### Describe what your prototype or MVP will demonstrate, and where it can be accessed.
 
-https://coop.selfdriven.health (org)
+https://coop.selfdriven.health (based on org.selfdriven.app and app.behub.io)
 It will demonstrate the existing generic functionality that we will add self-actuation to - ie define-to-provision.
 
 ### Describe realistic measures of success, ideally with on-chain metrics
 
 Generation of:
 - Coop Script/Plutus Addresses for managing shared assets
-- Sales transactions - ADA/USDM
 - Proofs of identity
 - Coop member self-use ie create own wallet - DeFi usage.
 
@@ -127,25 +130,7 @@ At the selfdriven Foundation he is the Organisational Lead, managing projects an
 
 Damian has over 20 years experience delivering technology projects as part of strategic transformation initiatives, with expertise particularly Salesforce, MuleSoft and its emerging technologies. As co-founder of recently acquired Tquila ANZ, Damian has experience in building teams and delivering enterprise solutions.
 
-**Dirk Van Onsem (Beyonders Collective Co-Founder - Business + Purpose)**
 
-Executive leadership corporate experience as VP at Nike Inc. leading large teams across 12 countries in EMEA, growing $3B+ annual net revenue, partnerships, and strategy. IEMBA from Vlerick Business School, Certified Coach & Facilitator. Recent facilitation work with Voltage Control team for Cardano/IOG Constitution workshops, including General Assembly in Buenos Aires (Sep-Dec 2024) and more recently the Midnight City Simulation workshop in Buenos Aires (Aug 2025).
-
-**Cassia Elizabeth Jayani Patel (Beyonders Collective Co-Founder - Science + Community)**
-
-Conservation, sustainability strategy, and multi-stakeholder engagement with international agencies, governments, private sector, and grassroots communities in executive leadership roles at nonprofit Oceanic Global, tech startup Anthropogenic, convener Earth One, and mobility startup Global Passport. Environmental Engineering degree from Columbia University. 
-
-**Jamie Anley (eyonders Collective Co-Founder - Innovation + Storytelling)**
-
-Built and sold high-profile London-based creative design agency JAM Design after 30 years of mission-aligned design projects, cause marketing and leadership purpose quests. Co-Founder of Moving Beyond intersectional climate convener building community and bridging polarized siloes.  Facilitator and inner work expert.
-
-**About BioHub with Crafters as the Focus**
-
-The Beyonders “BioHub” in Mallorca is a catalyst empowering island-led innovation in the Balearic archipelago bioregion. Our thesis is to address the underexplored opportunity to focus on place-based innovation and empower local changemakers. Like a venture studio we work at every stage of the project from inception, through team building, validation, MVP development, and ultimately financing and adaptive scaling (aligned with ecosystemic intelligence). The flagship startup spinning out of the Nursery will crack the market on biochar with a contextual, scalable, blockchain-enabled cooperative model for farmers. 
-
-Beyonders Collective Website
-Sinal do Vale Website (first client of Beyonders and inspiration for the bioregional theory-of-change)
-Photos 
 
 ---
 

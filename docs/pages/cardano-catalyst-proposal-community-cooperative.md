@@ -93,6 +93,7 @@ In total per community:
 Number of communities:
 - Year 1: 4
 - Year 2: 20
+
 ---
 
 ## Your Project and Solution
