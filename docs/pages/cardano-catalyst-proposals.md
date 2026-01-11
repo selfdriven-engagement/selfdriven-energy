@@ -13,7 +13,7 @@ We have a two highly focused impactful and reusable Catalyst Proposals in Fund15
 
 ### Fund 15
 
-| Catalyst Link | Solution | Info |
+| Catalyst Link | Solution | Links |
 |:----------|:----------|:-------|
 |[Powering a Community Cooperative using Cardano, by selfdriven](https://projectcatalyst.io/funds/15/cardano-use-cases-prototype-and-launch/powering-a-community-cooperative-using-cardano-by-selfdriven)<br><small><span style="color:gray">Search: "selfdriven"</span></small>|Work with the Beyonders Collective to deliver a real use project, based on a co-developed open-source kit - using the "from definition to implementation" model.|[More Info](/cardano-catalyst/proposal/community-cooperative/)|
 |[Powering New Health Systems Cooperative using Cardano, by selfdriven](https://projectcatalyst.io/funds/15/cardano-use-cases-prototype-and-launch/powering-new-health-systems-using-cardano-by-selfdriven)<br><small><span style="color:gray">Search: "selfdriven"</span></small>|Work with the selfdriven.health to deliver a real use project, based on the co-developed open-source kit - using the "from definition to implementation" model.|[More Info](/cardano-catalyst/proposal/health-systems-cooperative/)|
