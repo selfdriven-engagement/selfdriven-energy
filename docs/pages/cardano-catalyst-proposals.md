@@ -7,7 +7,7 @@ permalink: /cardano-catalyst/proposals/
 ## Cardano Catalyst
 # Most Recent Proposals
 
-We have a range of impactful and reusable Catalyst Proposals in Fund14. Delivering real-solutions, onboarding & kits for the community.
+We have a two highly focused impactful and reusable Catalyst Proposals in Fund15. Delivering real-solutions & onboarding kits for general use.
 
 **All proposals can be found in the Catalyst App by searching for "selfdriven".**
 
