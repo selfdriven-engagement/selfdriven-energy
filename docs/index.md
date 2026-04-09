@@ -3,7 +3,7 @@ layout: selfdriven
 title: selfdriven Energy
 ---
 
-## Helping communities self-actuate sustainable energy creation, supply & organisation.
+# Helping communities self-actuate sustainable energy creation, supply & organisation.
 
 A sustainable community to needs sustainable energy, which can come in two main types ...
 
@@ -12,32 +12,32 @@ A sustainable community to needs sustainable energy, which can come in two main 
 
 [selfdriven.fyi/energy](https://selfdriven.fyi/energy)
 
-### Scope
+## Scope
 - Community energy needs
 - AI planning
 - Provisioning
 - Economic Management / Sharing
 
-### Forms
+## Forms
 - Intelligence - the energy that organises against entropy.
 - Electrical
 - Communications
 - Economic
 
-### Community Collaborations
+## Community Collaborations
 - [Cardano Catalyst Proposals](/cardano-catalyst/proposals/)
     - [Community Engagement](/cardano-catalyst/community-engagement/)
     - [Proposal Checklist](/cardano-catalyst/proposal/checklist/)
     - [Photos & Images](https://github.com/selfdriven-foundation/selfdriven-energy/tree/main/communities/images)
 
-### Research
+## Research
 - Intelligence as a form of organisational energy that counters the dispersive force of entropy.
     - Is it all then just a matter of compute energy?
 
-### References
+## References
 - [stellarworld.com](https://stellarworld.com)
 
-### Related
+## Related
 - [selfdriven.fyi/intelligence](https://selfdriven.fyi/intelligence)
 - [selfdriven.fyi/cog-assist](https://selfdriven.fyi/cog-assist)
 - [selfdriven.network AI Interface](https://selfdriven.network)
