@@ -3,9 +3,9 @@ layout: selfdriven
 title: selfdriven Energy
 ---
 
-## Helping communities self-actuate their energy creation, supply & coordination.
+## Helping communities self-actuate sustainable energy creation, supply & organisation.
 
-A sustainable community to needs a source of energy, which can come in two main types ...
+A sustainable community to needs sustainable energy, which can come in two main types ...
 
 - **Passive** - accumulated stored energy i.e. monetory tokens "funds".
 - **Active** - human energy.
