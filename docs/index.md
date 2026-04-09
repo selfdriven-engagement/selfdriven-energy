@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: selfdriven
+title: selfdriven Energy
 ---
 
 ## Helping communities self-actuate their energy creation, supply & coordination.
@@ -33,7 +33,6 @@ A sustainable community to needs a source of energy, which can come in two main 
 ### Research
 - Intelligence as a form of organisational energy that counters the dispersive force of entropy.
     - Is it all then just a matter of compute energy?
-
 
 ### References
 - [stellarworld.com](https://stellarworld.com)
