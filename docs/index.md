@@ -34,6 +34,10 @@ A sustainable community to needs a source of energy, which can come in two main 
 - Intelligence as a form of organisational energy that counters the dispersive force of entropy.
     - Is it all then just a matter of compute energy?
 
+
+### References
+- [stellarworld.com](https://stellarworld.com)
+
 ### Related
 - [selfdriven.fyi/intelligence](https://selfdriven.fyi/intelligence)
 - [selfdriven.fyi/cog-assist](https://selfdriven.fyi/cog-assist)
